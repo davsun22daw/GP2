@@ -1,0 +1,29 @@
+<h1>My Custom Table</h1>
+<hr>
+
+<table id="users">
+  <thead>
+  <tr>
+    <th>Pais</th>
+    <th>Capital</th>
+    <th>Poblacion</th>
+    <th>Extension</th>
+    <th>PiB</th>
+    <th>EsperanzaVida</th>
+    <th>Idioma</th>
+    <th>Moneda</th>
+  </tr>
+</thead>
+<tbody>
+  <tr *ngFor = "let pais of paises">
+    <td>{{ pais.Pais }}</td>
+    <td>{{ pais.Capital }}</td>
+    <td>{{ pais.Poblacion }}</td>
+    <td>{{ pais.Extension }}</td>
+    <td>{{ pais.PiB }}</td>
+    <td>{{ pais.EsperanzaVida }}</td>
+    <td>{{ pais.Idioma }}</td>
+    <td>{{ pais.Moneda }}</td>
+  </tr>
+</tbody>
+</table>

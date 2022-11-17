@@ -1,1975 +1,1972 @@
+[
 {
-    "Table 1":[
-     {
-      "Pais": "Catar",
-      "Capital": "Doha",
-      "Poblacion": 2694849,
-      "Extension": 11586,
-      "PiB": 93521,
-      "EsperanzaVida": 54.51,
-      "Idioma": "árabe",
-      "Moneda": "Riyal qatarí"
-     },
-     {
-      "Pais": "Somalia",
-      "Capital": "Mogadiscio",
-      "Poblacion": 15181925,
-      "Extension": 637657,
-      "PiB": 9815,
-      "EsperanzaVida": 64.38,
-      "Idioma": "somalí",
-      "Moneda": "Chelín somalí"
-     },
-     {
-      "Pais": "Mónaco",
-      "Capital": "Mónaco",
-      "Poblacion": 38897,
-      "Extension": 2,
-      "PiB": 9805,
-      "EsperanzaVida": 70.06,
-      "Idioma": "francés",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Gambia",
-      "Capital": "Banjul",
-      "Poblacion": 2163765,
-      "Extension": 11295,
-      "PiB": 9769,
-      "EsperanzaVida": 66.69,
-      "Idioma": "inglés",
-      "Moneda": "Dalasi"
-     },
-     {
-      "Pais": "Dominica",
-      "Capital": "Roseau",
-      "Poblacion": 74308,
-      "Extension": 751,
-      "PiB": 9668,
-      "EsperanzaVida": 77.22,
-      "Idioma": "inglés",
-      "Moneda": "Dólar del Caribe Oriental"
-     },
-     {
-      "Pais": "España",
-      "Capital": "Madrid",
-      "Poblacion": 46397452,
-      "Extension": 505992,
-      "PiB": 9119,
-      "EsperanzaVida": 74.21,
-      "Idioma": "español",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Bolivia",
-      "Capital": "Sucre",
-      "Poblacion": 11215674,
-      "Extension": 1098580,
-      "PiB": 9030,
-      "EsperanzaVida": 77.55,
-      "Idioma": "castellano",
-      "Moneda": "Boliviano"
-     },
-     {
-      "Pais": "Benín",
-      "Capital": "Porto-Novo",
-      "Poblacion": 11485674,
-      "Extension": 114763,
-      "PiB": 85192,
-      "EsperanzaVida": 62.08,
-      "Idioma": "francés",
-      "Moneda": "Franco CFA de África Occidental"
-     },
-     {
-      "Pais": "Kiribati",
-      "Capital": "Tarawa",
-      "Poblacion": 118414,
-      "Extension": 726,
-      "PiB": 8674,
-      "EsperanzaVida": 66.99,
-      "Idioma": "inglés",
-      "Moneda": "Dólar australiano"
-     },
-     {
-      "Pais": "Uruguay",
-      "Capital": "Montevideo",
-      "Poblacion": 3469551,
-      "Extension": 176215,
-      "PiB": 8497,
-      "EsperanzaVida": 75.49,
-      "Idioma": "castellano",
-      "Moneda": "Peso uruguayo"
-     },
-     {
-      "Pais": "Malaui",
-      "Capital": "Lilongüe",
-      "Poblacion": 19164728,
-      "Extension": 118484,
-      "PiB": 8143,
-      "EsperanzaVida": 76.31,
-      "Idioma": "chicheua",
-      "Moneda": "Kwacha malauí"
-     },
-     {
-      "Pais": "Burundi",
-      "Capital": "Buyumbura",
-      "Poblacion": 11216450,
-      "Extension": 27834,
-      "PiB": 793,
-      "EsperanzaVida": 72.08,
-      "Idioma": "francés",
-      "Moneda": "Franco de Burundi"
-     },
-     {
-      "Pais": "Nepal",
-      "Capital": "Katmandú",
-      "Poblacion": 29624035,
-      "Extension": 147181,
-      "PiB": 79201,
-      "EsperanzaVida": 74.7,
-      "Idioma": "nepalí",
-      "Moneda": "Rupia nepalí"
-     },
-     {
-      "Pais": "Suecia",
-      "Capital": "Estocolmo",
-      "Poblacion": 9982709,
-      "Extension": 450295,
-      "PiB": 77324,
-      "EsperanzaVida": 71.8,
-      "Idioma": "Sueco",
-      "Moneda": "Corona sueca"
-     },
-     {
-      "Pais": "Irak",
-      "Capital": "Bagdad",
-      "Poblacion": 39339753,
-      "Extension": 435244,
-      "PiB": 72481,
-      "EsperanzaVida": 69.89,
-      "Idioma": "árabe",
-      "Moneda": "Dinar iraquí"
-     },
-     {
-      "Pais": "Guyana",
-      "Capital": "Georgetown",
-      "Poblacion": 782225,
-      "Extension": 214969,
-      "PiB": 7333,
-      "EsperanzaVida": 58.63,
-      "Idioma": "inglés",
-      "Moneda": "Dólar guyanés"
-     },
-     {
-      "Pais": "Cabo Verde",
-      "Capital": "Praia",
-      "Poblacion": 553335,
-      "Extension": 4033,
-      "PiB": 7028,
-      "EsperanzaVida": 70.05,
-      "Idioma": "portugués",
-      "Moneda": "Escudo caboverdiano"
-     },
-     {
-      "Pais": "Eritrea",
-      "Capital": "Asmara",
-      "Poblacion": 5187948,
-      "Extension": 117600,
-      "PiB": 69287,
-      "EsperanzaVida": 74.8,
-      "Idioma": "árabe",
-      "Moneda": "Nakfa"
-     },
-     {
-      "Pais": "Ecuador",
-      "Capital": "Quito",
-      "Poblacion": 16863425,
-      "Extension": 256369,
-      "PiB": 66766,
-      "EsperanzaVida": 72.15,
-      "Idioma": "español",
-      "Moneda": "Dólar estadounidense"
-     },
-     {
-      "Pais": "Brunéi",
-      "Capital": "Bandar Seri Begawan",
-      "Poblacion": 434076,
-      "Extension": 5765,
-      "PiB": 66619,
-      "EsperanzaVida": 71.4,
-      "Idioma": "malayo",
-      "Moneda": "Dólar de Brunéi"
-     },
-     {
-      "Pais": "Guinea Ecuatorial",
-      "Capital": "Malabo",
-      "Poblacion": 1313894,
-      "Extension": 28051,
-      "PiB": 65972,
-      "EsperanzaVida": 61.96,
-      "Idioma": "español",
-      "Moneda": "Franco CFA de África Central"
-     },
-     {
-      "Pais": "Costa Rica",
-      "Capital": "San José",
-      "Poblacion": 4953199,
-      "Extension": 51100,
-      "PiB": 64651,
-      "EsperanzaVida": 76.8,
-      "Idioma": "español",
-      "Moneda": "Colón costarricense"
-     },
-     {
-      "Pais": "Nigeria",
-      "Capital": "Abuya",
-      "Poblacion": 195875237,
-      "Extension": 923768,
-      "PiB": 63766,
-      "EsperanzaVida": 83.2,
-      "Idioma": "inglés",
-      "Moneda": "Naira"
-     },
-     {
-      "Pais": "Bélgica",
-      "Capital": "Bruselas",
-      "Poblacion": 11498519,
-      "Extension": 30528,
-      "PiB": 6921,
-      "EsperanzaVida": 81.9,
-      "Idioma": "alemán",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Timor Oriental",
-      "Capital": "Dili",
-      "Poblacion": 1324094,
-      "Extension": 14874,
-      "PiB": 6693,
-      "EsperanzaVida": 73.63,
-      "Idioma": "portugués",
-      "Moneda": "Dólar estadounidense"
-     },
-     {
-      "Pais": "Bahamas",
-      "Capital": "Nasáu",
-      "Poblacion": 399285,
-      "Extension": 13943,
-      "PiB": 6613,
-      "EsperanzaVida": 74.05,
-      "Idioma": "inglés",
-      "Moneda": "Dólar bahameño"
-     },
-     {
-      "Pais": "Andorra",
-      "Capital": "Andorra la Vieja",
-      "Poblacion": 76953,
-      "Extension": 468,
-      "PiB": 6581,
-      "EsperanzaVida": 90,
-      "Idioma": "catalán",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Rusia",
-      "Capital": "Moscú",
-      "Poblacion": 143964709,
-      "Extension": 17098200,
-      "PiB": 6420,
-      "EsperanzaVida": 71.34,
-      "Idioma": "ruso",
-      "Moneda": "Rublo ruso"
-     },
-     {
-      "Pais": "Mozambique",
-      "Capital": "Maputo",
-      "Poblacion": 30528673,
-      "Extension": 801590,
-      "PiB": 6331,
-      "EsperanzaVida": 67.36,
-      "Idioma": "portugués",
-      "Moneda": "Metical mozambiqueño"
-     },
-     {
-      "Pais": "Guinea",
-      "Capital": "Conakri",
-      "Poblacion": 13052608,
-      "Extension": 245857,
-      "PiB": 6252,
-      "EsperanzaVida": 74.53,
-      "Idioma": "francés",
-      "Moneda": "Franco guineano"
-     },
-     {
-      "Pais": "Omán",
-      "Capital": "Mascate",
-      "Poblacion": 4829946,
-      "Extension": 309500,
-      "PiB": 6200,
-      "EsperanzaVida": 81.5,
-      "Idioma": "árabe",
-      "Moneda": "Rial omaní"
-     },
-     {
-      "Pais": "Fiyi",
-      "Capital": "Suva",
-      "Poblacion": 912241,
-      "Extension": 18272,
-      "PiB": 6134,
-      "EsperanzaVida": 82,
-      "Idioma": "indostano fiyiano",
-      "Moneda": "Dólar fiyiano"
-     },
-     {
-      "Pais": "San Cristóbal y Nieves",
-      "Capital": "Basseterre",
-      "Poblacion": 55850,
-      "Extension": 261,
-      "PiB": 59571,
-      "EsperanzaVida": 72.66,
-      "Idioma": "inglés",
-      "Moneda": "Dólar del Caribe Oriental"
-     },
-     {
-      "Pais": "Sudán del Sur",
-      "Capital": "Yuba",
-      "Poblacion": 12919053,
-      "Extension": 619745,
-      "PiB": 59324,
-      "EsperanzaVida": 84,
-      "Idioma": "inglés",
-      "Moneda": "Libra sursudanesa"
-     },
-     {
-      "Pais": "Baréin",
-      "Capital": "Manama",
-      "Poblacion": 1566993,
-      "Extension": 758,
-      "PiB": 58930,
-      "EsperanzaVida": 77.42,
-      "Idioma": "inglés",
-      "Moneda": "Dinar bahreiní"
-     },
-     {
-      "Pais": "Australia",
-      "Capital": "Canberra",
-      "Poblacion": 24772247,
-      "Extension": 7692060,
-      "PiB": 58427,
-      "EsperanzaVida": 83.2,
-      "Idioma": "inglés",
-      "Moneda": "Dólar australiano"
-     },
-     {
-      "Pais": "Alemania",
-      "Capital": "Berlín",
-      "Poblacion": 82293457,
-      "Extension": 357021,
-      "PiB": 57927,
-      "EsperanzaVida": 80.9,
-      "Idioma": "alemán",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Indonesia",
-      "Capital": "Yakarta",
-      "Poblacion": 266794980,
-      "Extension": 1910930,
-      "PiB": 57646,
-      "EsperanzaVida": 74.5,
-      "Idioma": "indonesio",
-      "Moneda": "Rupia indonesia"
-     },
-     {
-      "Pais": "Armenia",
-      "Capital": "Ereván",
-      "Poblacion": 2934152,
-      "Extension": 29743,
-      "PiB": 55807,
-      "EsperanzaVida": 75.22,
-      "Idioma": "armenio",
-      "Moneda": "Dram armenio"
-     },
-     {
-      "Pais": "Estados Unidos",
-      "Capital": "Washington D. C.",
-      "Poblacion": 326766748,
-      "Extension": 9371180,
-      "PiB": 55006,
-      "EsperanzaVida": 68,
-      "Idioma": "inglés",
-      "Moneda": "Dólar estadounidense"
-     },
-     {
-      "Pais": "Canadá",
-      "Capital": "Ottawa",
-      "Poblacion": 36953765,
-      "Extension": 9984670,
-      "PiB": 52085,
-      "EsperanzaVida": 80.36,
-      "Idioma": "inglés",
-      "Moneda": "Dólar canadiense"
-     },
-     {
-      "Pais": "Esuatini",
-      "Capital": "Mbabane",
-      "Poblacion": 1391385,
-      "Extension": 17364,
-      "PiB": 50728,
-      "EsperanzaVida": 76.9,
-      "Idioma": "suazi",
-      "Moneda": "Lilangeni"
-     },
-     {
-      "Pais": "Corea del Norte",
-      "Capital": "Pionyang",
-      "Poblacion": 25610672,
-      "Extension": 120538,
-      "PiB": 5939,
-      "EsperanzaVida": 83.5,
-      "Idioma": "coreano",
-      "Moneda": "Won norcoreano"
-     },
-     {
-      "Pais": "Vietnam",
-      "Capital": "Hanói",
-      "Poblacion": 96491146,
-      "Extension": 331212,
-      "PiB": 5925,
-      "EsperanzaVida": 73.7,
-      "Idioma": "Vietnamita",
-      "Moneda": "Dong vietnamita"
-     },
-     {
-      "Pais": "Noruega",
-      "Capital": "Oslo",
-      "Poblacion": 5353363,
-      "Extension": 323782,
-      "PiB": 5877,
-      "EsperanzaVida": 82.06,
-      "Idioma": "noruego",
-      "Moneda": "Corona noruega"
-     },
-     {
-      "Pais": "Malí",
-      "Capital": "Bamako",
-      "Poblacion": 19107706,
-      "Extension": 1241240,
-      "PiB": 5591,
-      "EsperanzaVida": 79.21,
-      "Idioma": "francés",
-      "Moneda": "Franco CFA de África Occidental"
-     },
-     {
-      "Pais": "Nauru",
-      "Capital": "Yaren",
-      "Poblacion": 11312,
-      "Extension": 21,
-      "PiB": 5459,
-      "EsperanzaVida": 71.07,
-      "Idioma": "nauruano",
-      "Moneda": "Dólar australiano"
-     },
-     {
-      "Pais": "Jordania",
-      "Capital": "Amán",
-      "Poblacion": 9903802,
-      "Extension": 89342,
-      "PiB": 5287,
-      "EsperanzaVida": 74.59,
-      "Idioma": "árabe",
-      "Moneda": "Dinar jordano"
-     },
-     {
-      "Pais": "Turkmenistán",
-      "Capital": "Asjabad",
-      "Poblacion": 5851466,
-      "Extension": 488100,
-      "PiB": 5082,
-      "EsperanzaVida": 63.71,
-      "Idioma": "turcomano",
-      "Moneda": "Manat turcomano"
-     },
-     {
-      "Pais": "Japón",
-      "Capital": "Tokio",
-      "Poblacion": 127185332,
-      "Extension": 377930,
-      "PiB": 5023,
-      "EsperanzaVida": 82.9,
-      "Idioma": "japonés",
-      "Moneda": "Yen"
-     },
-     {
-      "Pais": "Polonia",
-      "Capital": "Varsovia",
-      "Poblacion": 38104832,
-      "Extension": 312685,
-      "PiB": 49675,
-      "EsperanzaVida": 80.9,
-      "Idioma": "polaco",
-      "Moneda": "Zloty"
-     },
-     {
-      "Pais": "Antigua y Barbuda",
-      "Capital": "Saint John",
-      "Poblacion": 103050,
-      "Extension": 442,
-      "PiB": 49551,
-      "EsperanzaVida": 77.15,
-      "Idioma": "inglés",
-      "Moneda": "Dólar del Caribe Oriental"
-     },
-     {
-      "Pais": "Ucrania",
-      "Capital": "Kiev",
-      "Poblacion": 44009214,
-      "Extension": 603500,
-      "PiB": 48436,
-      "EsperanzaVida": 70.62,
-      "Idioma": "ucraniano",
-      "Moneda": "Grivna"
-     },
-     {
-      "Pais": "Malasia",
-      "Capital": "Kuala Lumpur",
-      "Poblacion": 32042458,
-      "Extension": 330803,
-      "PiB": 47714,
-      "EsperanzaVida": 67.39,
-      "Idioma": "malayo",
-      "Moneda": "Ringgit malayo"
-     },
-     {
-      "Pais": "Kirguistán",
-      "Capital": "Biskek",
-      "Poblacion": 6132932,
-      "Extension": 199951,
-      "PiB": 47303,
-      "EsperanzaVida": 71.37,
-      "Idioma": "kirguís",
-      "Moneda": "Som kirguís"
-     },
-     {
-      "Pais": "Congo",
-      "Capital": "Brazzaville",
-      "Poblacion": 5399895,
-      "Extension": 342000,
-      "PiB": 46918,
-      "EsperanzaVida": 72.45,
-      "Idioma": "árabe",
-      "Moneda": "Franco CFA de África Central"
-     },
-     {
-      "Pais": "Nicaragua",
-      "Capital": "Managua",
-      "Poblacion": 6284757,
-      "Extension": 130373,
-      "PiB": 46419,
-      "EsperanzaVida": 62.79,
-      "Idioma": "español",
-      "Moneda": "Córdoba nicaragüense"
-     },
-     {
-      "Pais": "Islas Marshall",
-      "Capital": "Majuro",
-      "Poblacion": 53167,
-      "Extension": 181,
-      "PiB": 45936,
-      "EsperanzaVida": 82.6,
-      "Idioma": "marshalés",
-      "Moneda": "Dólar estadounidense"
-     },
-     {
-      "Pais": "Barbados",
-      "Capital": "Bridgetown",
-      "Poblacion": 286388,
-      "Extension": 430,
-      "PiB": 45411,
-      "EsperanzaVida": 79.31,
-      "Idioma": "bengalí",
-      "Moneda": "Dólar de Barbados"
-     },
-     {
-      "Pais": "Reino Unido",
-      "Capital": "Londres",
-      "Poblacion": 66573504,
-      "Extension": 242900,
-      "PiB": 44260,
-      "EsperanzaVida": 64.8,
-      "Idioma": "inglés",
-      "Moneda": "Libra británica"
-     },
-     {
-      "Pais": "Islandia",
-      "Capital": "Reikiavik",
-      "Poblacion": 337780,
-      "Extension": 103000,
-      "PiB": 43721,
-      "EsperanzaVida": 76.87,
-      "Idioma": "islandés",
-      "Moneda": "Corona islandes"
-     },
-     {
-      "Pais": "El Salvador",
-      "Capital": "San Salvador",
-      "Poblacion": 6411558,
-      "Extension": 21041,
-      "PiB": 43624,
-      "EsperanzaVida": 78.12,
-      "Idioma": "español",
-      "Moneda": "Dólar estadounidense"
-     },
-     {
-      "Pais": "Israel",
-      "Capital": "Jerusalén",
-      "Poblacion": 8452841,
-      "Extension": 22072,
-      "PiB": 42940,
-      "EsperanzaVida": 65.24,
-      "Idioma": "árabe",
-      "Moneda": "Nuevo shéquel"
-     },
-     {
-      "Pais": "Líbano",
-      "Capital": "Beirut",
-      "Poblacion": 6093509,
-      "Extension": 10452,
-      "PiB": 42665,
-      "EsperanzaVida": 73.4,
-      "Idioma": "árabe",
-      "Moneda": "Libra libanesa"
-     },
-     {
-      "Pais": "Chipre",
-      "Capital": "Nicosia",
-      "Poblacion": 1189085,
-      "Extension": 9251,
-      "PiB": 42556,
-      "EsperanzaVida": 81.8,
-      "Idioma": "griego",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Eslovaquia",
-      "Capital": "Bratislava",
-      "Poblacion": 5449816,
-      "Extension": 49037,
-      "PiB": 42191,
-      "EsperanzaVida": 80.9,
-      "Idioma": "eslovaco",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Emiratos Árabes Unidos",
-      "Capital": "Abu Dabi",
-      "Poblacion": 9541615,
-      "Extension": 83600,
-      "PiB": 40775,
-      "EsperanzaVida": 66.68,
-      "Idioma": "árabe",
-      "Moneda": "Dirham de los Emiratos Árabes Unidos"
-     },
-     {
-      "Pais": "Camboya",
-      "Capital": "Nom Pen",
-      "Poblacion": 16245729,
-      "Extension": 181035,
-      "PiB": 4683,
-      "EsperanzaVida": 59.63,
-      "Idioma": "camboyano",
-      "Moneda": "Riel camboyano"
-     },
-     {
-      "Pais": "Pakistán",
-      "Capital": "Islamabad",
-      "Poblacion": 200813818,
-      "Extension": 796095,
-      "PiB": 4445,
-      "EsperanzaVida": 69.13,
-      "Idioma": "Urdu",
-      "Moneda": "Rupia pakistaní"
-     },
-     {
-      "Pais": "Santa Lucía",
-      "Capital": "Castries",
-      "Poblacion": 179667,
-      "Extension": 539,
-      "PiB": 4445,
-      "EsperanzaVida": 68.21,
-      "Idioma": "inglés",
-      "Moneda": "Dólar del Caribe Oriental"
-     },
-     {
-      "Pais": "Tanzania",
-      "Capital": "Dodoma",
-      "Poblacion": 59091392,
-      "Extension": 945087,
-      "PiB": 4417,
-      "EsperanzaVida": 61.34,
-      "Idioma": "suahili",
-      "Moneda": "Chelín tanzano"
-     },
-     {
-      "Pais": "Birmania",
-      "Capital": "Naipyidó",
-      "Poblacion": 53855735,
-      "Extension": 676578,
-      "PiB": 4344,
-      "EsperanzaVida": 71.77,
-      "Idioma": "birmano",
-      "Moneda": "Kyat birmano"
-     },
-     {
-      "Pais": "Taiwán",
-      "Capital": "Taipéi",
-      "Poblacion": 23519518,
-      "Extension": 36191,
-      "PiB": 4288,
-      "EsperanzaVida": 69.71,
-      "Idioma": "mandarin",
-      "Moneda": "Nuevo dólar taiwanés"
-     },
-     {
-      "Pais": "Montenegro",
-      "Capital": "Podgorica",
-      "Poblacion": 629219,
-      "Extension": 13812,
-      "PiB": 4260,
-      "EsperanzaVida": 61.39,
-      "Idioma": "serbio",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Sudáfrica",
-      "Capital": "Pretoria",
-      "Poblacion": 57398421,
-      "Extension": 1221040,
-      "PiB": 4217,
-      "EsperanzaVida": 58.1,
-      "Idioma": "afrikáans",
-      "Moneda": "Rand sudafricano"
-     },
-     {
-      "Pais": "Irán",
-      "Capital": "Teherán",
-      "Poblacion": 82011735,
-      "Extension": 1648200,
-      "PiB": 4181,
-      "EsperanzaVida": 71.91,
-      "Idioma": "persa",
-      "Moneda": "Rial iraní"
-     },
-     {
-      "Pais": "Camerún",
-      "Capital": "Yaundé",
-      "Poblacion": 24678234,
-      "Extension": 475442,
-      "PiB": 4064,
-      "EsperanzaVida": 81.75,
-      "Idioma": "francés",
-      "Moneda": "Franco CFA de África Central"
-     },
-     {
-      "Pais": "Panamá",
-      "Capital": "Panamá",
-      "Poblacion": 4162618,
-      "Extension": 75417,
-      "PiB": 37502,
-      "EsperanzaVida": 74.36,
-      "Idioma": "español",
-      "Moneda": "Balboa panameño"
-     },
-     {
-      "Pais": "Guinea-Bisáu",
-      "Capital": "Bisáu",
-      "Poblacion": 1907268,
-      "Extension": 36125,
-      "PiB": 36752,
-      "EsperanzaVida": 59.06,
-      "Idioma": "portugués",
-      "Moneda": "Franco CFA de África Occidental"
-     },
-     {
-      "Pais": "Papúa Nueva Guinea",
-      "Capital": "Puerto Moresby",
-      "Poblacion": 8418346,
-      "Extension": 462840,
-      "PiB": 35888,
-      "EsperanzaVida": 76.95,
-      "Idioma": "hiri motu",
-      "Moneda": "Kina"
-     },
-     {
-      "Pais": "Ruanda",
-      "Capital": "Kigali",
-      "Poblacion": 12501156,
-      "Extension": 26338,
-      "PiB": 35414,
-      "EsperanzaVida": 71.34,
-      "Idioma": "francés",
-      "Moneda": "Franco ruandés"
-     },
-     {
-      "Pais": "Kuwait",
-      "Capital": "Kuwait City",
-      "Poblacion": 4197128,
-      "Extension": 17818,
-      "PiB": 34468,
-      "EsperanzaVida": 68.61,
-      "Idioma": "árabe",
-      "Moneda": "Dinar kuwaití"
-     },
-     {
-      "Pais": "Perú",
-      "Capital": "Lima",
-      "Poblacion": 32551815,
-      "Extension": 1285220,
-      "PiB": 34333,
-      "EsperanzaVida": 81.2,
-      "Idioma": "castellano",
-      "Moneda": "Nuevo sol"
-     },
-     {
-      "Pais": "Azerbaiyán",
-      "Capital": "Bakú",
-      "Poblacion": 9923914,
-      "Extension": 86600,
-      "PiB": 34107,
-      "EsperanzaVida": 73.12,
-      "Idioma": "azerí",
-      "Moneda": "Manat azerí"
-     },
-     {
-      "Pais": "Costa de Marfil",
-      "Capital": "Yamusukro",
-      "Poblacion": 24905843,
-      "Extension": 322463,
-      "PiB": 33800,
-      "EsperanzaVida": 80.47,
-      "Idioma": "francés",
-      "Moneda": "Franco CFA de África Occidental"
-     },
-     {
-      "Pais": "Egipto",
-      "Capital": "El Cairo",
-      "Poblacion": 99375741,
-      "Extension": 1002450,
-      "PiB": 33010,
-      "EsperanzaVida": 73.53,
-      "Idioma": "árabe",
-      "Moneda": "Libra egipcia"
-     },
-     {
-      "Pais": "Rumania",
-      "Capital": "Bucarest",
-      "Poblacion": 19580634,
-      "Extension": 238391,
-      "PiB": 32803,
-      "EsperanzaVida": 73.45,
-      "Idioma": "rumano",
-      "Moneda": "Leu rumano"
-     },
-     {
-      "Pais": "Países Bajos",
-      "Capital": "Ámsterdam",
-      "Poblacion": 17084459,
-      "Extension": 41540,
-      "PiB": 31680,
-      "EsperanzaVida": 67.43,
-      "Idioma": "neerlandés",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Gabón",
-      "Capital": "Libreville",
-      "Poblacion": 2067561,
-      "Extension": 267668,
-      "PiB": 31295,
-      "EsperanzaVida": 82.5,
-      "Idioma": "francés",
-      "Moneda": "Franco CFA de África Central"
-     },
-     {
-      "Pais": "Níger",
-      "Capital": "Niamey",
-      "Poblacion": 22311375,
-      "Extension": 1267000,
-      "PiB": 31117,
-      "EsperanzaVida": 55.02,
-      "Idioma": "francés",
-      "Moneda": "Franco CFA de África Occidental"
-     },
-     {
-      "Pais": "Túnez",
-      "Capital": "Túnez",
-      "Poblacion": 11659174,
-      "Extension": 163610,
-      "PiB": 30472,
-      "EsperanzaVida": 71.19,
-      "Idioma": "árabe",
-      "Moneda": "Dinar tunecino"
-     },
-     {
-      "Pais": "Yibuti",
-      "Capital": "Yibuti",
-      "Poblacion": 971408,
-      "Extension": 23200,
-      "PiB": 3840,
-      "EsperanzaVida": 65.8,
-      "Idioma": "árabe",
-      "Moneda": "Franco yibutiano"
-     },
-     {
-      "Pais": "Belice",
-      "Capital": "Belmopán",
-      "Poblacion": 382444,
-      "Extension": 22966,
-      "PiB": 3789,
-      "EsperanzaVida": 74.75,
-      "Idioma": "inglés",
-      "Moneda": "Dólar beliceño"
-     },
-     {
-      "Pais": "Santo Tomé y Príncipe",
-      "Capital": "Santo Tomé",
-      "Poblacion": 208818,
-      "Extension": 964,
-      "PiB": 3768,
-      "EsperanzaVida": 74.5,
-      "Idioma": "portugués",
-      "Moneda": "Dobra"
-     },
-     {
-      "Pais": "Venezuela",
-      "Capital": "Caracas",
-      "Poblacion": 32381221,
-      "Extension": 912050,
-      "PiB": 3688,
-      "EsperanzaVida": 61.74,
-      "Idioma": "Español",
-      "Moneda": "Bolívar fuerte"
-     },
-     {
-      "Pais": "Yemen",
-      "Capital": "Saná",
-      "Poblacion": 28915284,
-      "Extension": 527968,
-      "PiB": 3623,
-      "EsperanzaVida": 66.6,
-      "Idioma": "árabe",
-      "Moneda": "Rial yemení"
-     },
-     {
-      "Pais": "República Centroafricana",
-      "Capital": "Bangui",
-      "Poblacion": 4737423,
-      "Extension": 622984,
-      "PiB": 3616,
-      "EsperanzaVida": 60.97,
-      "Idioma": "francés",
-      "Moneda": "Franco CFA de África Central"
-     },
-     {
-      "Pais": "Marruecos",
-      "Capital": "Rabat",
-      "Poblacion": 36191805,
-      "Extension": 446550,
-      "PiB": 3544,
-      "EsperanzaVida": 82.9,
-      "Idioma": "árabe",
-      "Moneda": "Dirham marroquí"
-     },
-     {
-      "Pais": "Comoras",
-      "Capital": "Moroni",
-      "Poblacion": 832347,
-      "Extension": 2170,
-      "PiB": 3284,
-      "EsperanzaVida": 64.53,
-      "Idioma": "Español",
-      "Moneda": "Franco comorano"
-     },
-     {
-      "Pais": "Guatemala",
-      "Capital": "Guatemala",
-      "Poblacion": 17245346,
-      "Extension": 108889,
-      "PiB": 3127,
-      "EsperanzaVida": 80.3,
-      "Idioma": "español",
-      "Moneda": "Quetzal guatemalteco"
-     },
-     {
-      "Pais": "Uzbekistán",
-      "Capital": "Taskent",
-      "Poblacion": 32364996,
-      "Extension": 447400,
-      "PiB": 3105,
-      "EsperanzaVida": 66.18,
-      "Idioma": "uzbeko",
-      "Moneda": "Som uzbeko"
-     },
-     {
-      "Pais": "Serbia",
-      "Capital": "Belgrado",
-      "Poblacion": 8762027,
-      "Extension": 88361,
-      "PiB": 29837,
-      "EsperanzaVida": 55.07,
-      "Idioma": "serbio",
-      "Moneda": "Dinar serbio"
-     },
-     {
-      "Pais": "Lituania",
-      "Capital": "Vilna",
-      "Poblacion": 2876475,
-      "Extension": 65300,
-      "PiB": 29617,
-      "EsperanzaVida": 84.4,
-      "Idioma": "lituano",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Chile",
-      "Capital": "Santiago",
-      "Poblacion": 18197209,
-      "Extension": 756102,
-      "PiB": 29104,
-      "EsperanzaVida": 80.33,
-      "Idioma": "castellano",
-      "Moneda": "Peso chileno"
-     },
-     {
-      "Pais": "Jamaica",
-      "Capital": "Kingston",
-      "Poblacion": 2898677,
-      "Extension": 10991,
-      "PiB": 28600,
-      "EsperanzaVida": 82.7,
-      "Idioma": "inglés",
-      "Moneda": "Dólar jamaiquino"
-     },
-     {
-      "Pais": "Zimbabue",
-      "Capital": "Harare",
-      "Poblacion": 16913261,
-      "Extension": 390757,
-      "PiB": 27806,
-      "EsperanzaVida": 60.7,
-      "Idioma": "inglés",
-      "Moneda": "Dólar estadounidense"
-     },
-     {
-      "Pais": "Togo",
-      "Capital": "Lomé",
-      "Poblacion": 7990926,
-      "Extension": 56785,
-      "PiB": 26868,
-      "EsperanzaVida": 76.89,
-      "Idioma": "francés",
-      "Moneda": "Franco CFA de África Occidental"
-     },
-     {
-      "Pais": "Bulgaria",
-      "Capital": "Sofía",
-      "Poblacion": 7036848,
-      "Extension": 110879,
-      "PiB": 26705,
-      "EsperanzaVida": 61.98,
-      "Idioma": "búlgaro",
-      "Moneda": "Lev búlgaro"
-     },
-     {
-      "Pais": "Samoa",
-      "Capital": "Apia",
-      "Poblacion": 55679,
-      "Extension": 2842,
-      "PiB": 26256,
-      "EsperanzaVida": 85.6,
-      "Idioma": "inglés",
-      "Moneda": "Tala"
-     },
-     {
-      "Pais": "Uganda",
-      "Capital": "Kampala",
-      "Poblacion": 44270563,
-      "Extension": 241550,
-      "PiB": 24625,
-      "EsperanzaVida": 72.07,
-      "Idioma": "inglés",
-      "Moneda": "Chelín ugandés"
-     },
-     {
-      "Pais": "Grecia",
-      "Capital": "Atenas",
-      "Poblacion": 11142161,
-      "Extension": 131957,
-      "PiB": 24493,
-      "EsperanzaVida": 72.43,
-      "Idioma": "griego",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Zambia",
-      "Capital": "Lusaka",
-      "Poblacion": 17609178,
-      "Extension": 752612,
-      "PiB": 23967,
-      "EsperanzaVida": 62.5,
-      "Idioma": "inglés",
-      "Moneda": "Kwacha zambiano"
-     },
-     {
-      "Pais": "Argelia",
-      "Capital": "Argel",
-      "Poblacion": 42008054,
-      "Extension": 2381740,
-      "PiB": 23627,
-      "EsperanzaVida": 77.06,
-      "Idioma": "árabe",
-      "Moneda": "Dinar argelino"
-     },
-     {
-      "Pais": "Corea del Sur",
-      "Capital": "Seúl",
-      "Poblacion": 51164435,
-      "Extension": 99828,
-      "PiB": 23387,
-      "EsperanzaVida": 58.1,
-      "Idioma": "coreano",
-      "Moneda": "Won surcoreano"
-     },
-     {
-      "Pais": "Letonia",
-      "Capital": "Riga",
-      "Poblacion": 1929938,
-      "Extension": 64559,
-      "PiB": 23356,
-      "EsperanzaVida": 54.84,
-      "Idioma": "letón",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Paraguay",
-      "Capital": "Asunción",
-      "Poblacion": 6896908,
-      "Extension": 406752,
-      "PiB": 22894,
-      "EsperanzaVida": 75.6,
-      "Idioma": "español",
-      "Moneda": "Guaraní"
-     },
-     {
-      "Pais": "México",
-      "Capital": "México",
-      "Poblacion": 130759074,
-      "Extension": 1964380,
-      "PiB": 22795,
-      "EsperanzaVida": 65.13,
-      "Idioma": "castellano",
-      "Moneda": "Peso mexicano"
-     },
-     {
-      "Pais": "Maldivas",
-      "Capital": "Malé",
-      "Poblacion": 444259,
-      "Extension": 300,
-      "PiB": 22240,
-      "EsperanzaVida": 64.69,
-      "Idioma": "maldivo",
-      "Moneda": "Rupia de Maldivas"
-     },
-     {
-      "Pais": "Bielorrusia",
-      "Capital": "Minsk",
-      "Poblacion": 9452113,
-      "Extension": 207600,
-      "PiB": 21698,
-      "EsperanzaVida": 74.23,
-      "Idioma": "bielorruso",
-      "Moneda": "Rublo bielorruso"
-     },
-     {
-      "Pais": "Senegal",
-      "Capital": "Dakar",
-      "Poblacion": 16294270,
-      "Extension": 196722,
-      "PiB": 21432,
-      "EsperanzaVida": 77.24,
-      "Idioma": "francés",
-      "Moneda": "Franco CFA de África Occidental"
-     },
-     {
-      "Pais": "República Democrática del Congo",
-      "Capital": "Kinsasa",
-      "Poblacion": 84004989,
-      "Extension": 2344860,
-      "PiB": 20769,
-      "EsperanzaVida": 69.33,
-      "Idioma": "francés",
-      "Moneda": "Franco congoleño"
-     },
-     {
-      "Pais": "Malta",
-      "Capital": "La Valeta",
-      "Poblacion": 432089,
-      "Extension": 316,
-      "PiB": 20036,
-      "EsperanzaVida": 59.69,
-      "Idioma": "inglés",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Tailandia",
-      "Capital": "Bangkok",
-      "Poblacion": 69183173,
-      "Extension": 513120,
-      "PiB": 2932,
-      "EsperanzaVida": 71.3,
-      "Idioma": "tailandés",
-      "Moneda": "Baht tailandés"
-     },
-     {
-      "Pais": "Georgia",
-      "Capital": "Tiflis",
-      "Poblacion": 3907131,
-      "Extension": 69700,
-      "PiB": 2878,
-      "EsperanzaVida": 62.38,
-      "Idioma": "georgiano",
-      "Moneda": "Lari georgiano"
-     },
-     {
-      "Pais": "Kosovo",
-      "Capital": "Pristina",
-      "Poblacion": 1797151,
-      "Extension": 10887,
-      "PiB": 2682,
-      "EsperanzaVida": 71.8,
-      "Idioma": "albanés",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Irlanda",
-      "Capital": "Dublín",
-      "Poblacion": 4803748,
-      "Extension": 70273,
-      "PiB": 2656,
-      "EsperanzaVida": 70.75,
-      "Idioma": "inglés",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Eslovenia",
-      "Capital": "Liubliana",
-      "Poblacion": 2081260,
-      "Extension": 20273,
-      "PiB": 2599,
-      "EsperanzaVida": 83.06,
-      "Idioma": "esloveno",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "República Dominicana",
-      "Capital": "Santo Domingo",
-      "Poblacion": 10882996,
-      "Extension": 48671,
-      "PiB": 2494,
-      "EsperanzaVida": 72.9,
-      "Idioma": "español",
-      "Moneda": "Peso dominicano"
-     },
-     {
-      "Pais": "Burkina Faso",
-      "Capital": "Uagadugú",
-      "Poblacion": 19751651,
-      "Extension": 272967,
-      "PiB": 2461,
-      "EsperanzaVida": 61.92,
-      "Idioma": "francés",
-      "Moneda": "Franco CFA de África Occidental"
-     },
-     {
-      "Pais": "Madagascar",
-      "Capital": "Antananarivo",
-      "Poblacion": 26262810,
-      "Extension": 587041,
-      "PiB": 2447,
-      "EsperanzaVida": 74.4,
-      "Idioma": "francés",
-      "Moneda": "Ariary malgache"
-     },
-     {
-      "Pais": "Filipinas",
-      "Capital": "Manila",
-      "Poblacion": 106512074,
-      "Extension": 300000,
-      "PiB": 2433,
-      "EsperanzaVida": 66.95,
-      "Idioma": "filipino",
-      "Moneda": "Peso filipino"
-     },
-     {
-      "Pais": "Tuvalu",
-      "Capital": "Funafuti",
-      "Poblacion": 11287,
-      "Extension": 26,
-      "PiB": 2397,
-      "EsperanzaVida": 71.85,
-      "Idioma": "tuvaluano",
-      "Moneda": "Dólar australiano"
-     },
-     {
-      "Pais": "Kazajistán",
-      "Capital": "Astaná",
-      "Poblacion": 18403860,
-      "Extension": 2724910,
-      "PiB": 2383,
-      "EsperanzaVida": 84.62,
-      "Idioma": "kazajo",
-      "Moneda": "Tenge kazajo"
-     },
-     {
-      "Pais": "Tayikistán",
-      "Capital": "Dusambé",
-      "Poblacion": 9107211,
-      "Extension": 143100,
-      "PiB": 2380,
-      "EsperanzaVida": 71.02,
-      "Idioma": "tayiko",
-      "Moneda": "Somoni tayiko"
-     },
-     {
-      "Pais": "Afganistán",
-      "Capital": "Kabul",
-      "Poblacion": 36373176,
-      "Extension": 652090,
-      "PiB": 2078,
-      "EsperanzaVida": 65.17,
-      "Idioma": "pastún",
-      "Moneda": "Afgani afgano"
-     },
-     {
-      "Pais": "Granada",
-      "Capital": "Saint George",
-      "Poblacion": 108339,
-      "Extension": 344,
-      "PiB": 2057,
-      "EsperanzaVida": 64.35,
-      "Idioma": "inglés",
-      "Moneda": "Dólar del Caribe Oriental"
-     },
-     {
-      "Pais": "Angola",
-      "Capital": "Luanda",
-      "Poblacion": 30774205,
-      "Extension": 1246700,
-      "PiB": 19837,
-      "EsperanzaVida": 61.49,
-      "Idioma": "portugués",
-      "Moneda": "Kwanza angoleño"
-     },
-     {
-      "Pais": "China",
-      "Capital": "Pekín",
-      "Poblacion": 1415045928,
-      "Extension": 9598000,
-      "PiB": 19338,
-      "EsperanzaVida": 77.1,
-      "Idioma": "mandarin",
-      "Moneda": "Yuan chino"
-     },
-     {
-      "Pais": "Surinam",
-      "Capital": "Paramaribo",
-      "Poblacion": 568301,
-      "Extension": 163820,
-      "PiB": 19209,
-      "EsperanzaVida": 65.82,
-      "Idioma": "neerlandés",
-      "Moneda": "Dólar surinamés"
-     },
-     {
-      "Pais": "Moldavia",
-      "Capital": "Chisináu",
-      "Poblacion": 4041065,
-      "Extension": 33846,
-      "PiB": 18724,
-      "EsperanzaVida": 72.01,
-      "Idioma": "moldavo",
-      "Moneda": "Leu moldavo"
-     },
-     {
-      "Pais": "Macedonia del Norte",
-      "Capital": "Skopie",
-      "Poblacion": 2085051,
-      "Extension": 25713,
-      "PiB": 18232,
-      "EsperanzaVida": 82.8,
-      "Idioma": "macedonio",
-      "Moneda": "Denar macedonio"
-     },
-     {
-      "Pais": "Ghana",
-      "Capital": "Accra",
-      "Poblacion": 29463643,
-      "Extension": 238533,
-      "PiB": 18127,
-      "EsperanzaVida": 73.92,
-      "Idioma": "inglés",
-      "Moneda": "Cedi"
-     },
-     {
-      "Pais": "Libia",
-      "Capital": "Trípoli",
-      "Poblacion": 6470956,
-      "Extension": 1759540,
-      "PiB": 17918,
-      "EsperanzaVida": 64.42,
-      "Idioma": "árabe",
-      "Moneda": "Dinar libio"
-     },
-     {
-      "Pais": "Botsuana",
-      "Capital": "Gaborone",
-      "Poblacion": 2333201,
-      "Extension": 582000,
-      "PiB": 17603,
-      "EsperanzaVida": 76.08,
-      "Idioma": "inglés",
-      "Moneda": "Pula"
-     },
-     {
-      "Pais": "Vanuatu",
-      "Capital": "Port Vila",
-      "Poblacion": 282117,
-      "Extension": 12189,
-      "PiB": 17527,
-      "EsperanzaVida": 67.49,
-      "Idioma": "bislama",
-      "Moneda": "Vatu"
-     },
-     {
-      "Pais": "Finlandia",
-      "Capital": "Helsinki",
-      "Poblacion": 5542517,
-      "Extension": 338424,
-      "PiB": 16997,
-      "EsperanzaVida": 71.36,
-      "Idioma": "finés",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Colombia",
-      "Capital": "Bogotá",
-      "Poblacion": 49464683,
-      "Extension": 1141750,
-      "PiB": 16893,
-      "EsperanzaVida": 77.46,
-      "Idioma": "italiano",
-      "Moneda": "Peso colombiano"
-     },
-     {
-      "Pais": "Bosnia-Herzegovina",
-      "Capital": "Sarajevo",
-      "Poblacion": 3503554,
-      "Extension": 51197,
-      "PiB": 16846,
-      "EsperanzaVida": 69.79,
-      "Idioma": "bosnio",
-      "Moneda": "Marco convertible"
-     },
-     {
-      "Pais": "Francia",
-      "Capital": "París",
-      "Poblacion": 65233271,
-      "Extension": 640597,
-      "PiB": 16680,
-      "EsperanzaVida": 67.56,
-      "Idioma": "francés",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Suiza",
-      "Capital": "Berna",
-      "Poblacion": 8544034,
-      "Extension": 41277,
-      "PiB": 16675,
-      "EsperanzaVida": 77.34,
-      "Idioma": "alemán",
-      "Moneda": "Franco suizo"
-     },
-     {
-      "Pais": "Nueva Zelanda",
-      "Capital": "Wellington",
-      "Poblacion": 4749598,
-      "Extension": 270469,
-      "PiB": 16318,
-      "EsperanzaVida": 78.08,
-      "Idioma": "inglés",
-      "Moneda": "Dólar neozelandés"
-     },
-     {
-      "Pais": "Trinidad y Tobago",
-      "Capital": "Puerto España",
-      "Poblacion": 1372598,
-      "Extension": 5130,
-      "PiB": 16194,
-      "EsperanzaVida": 68.31,
-      "Idioma": "inglés",
-      "Moneda": "Dólar trinitense"
-     },
-     {
-      "Pais": "Brasil",
-      "Capital": "Brasilia",
-      "Poblacion": 210867954,
-      "Extension": 8514880,
-      "PiB": 16056,
-      "EsperanzaVida": 76,
-      "Idioma": "portugués",
-      "Moneda": "Real brasileño"
-     },
-     {
-      "Pais": "Austria",
-      "Capital": "Viena",
-      "Poblacion": 8751820,
-      "Extension": 83871,
-      "PiB": 15842,
-      "EsperanzaVida": 81.3,
-      "Idioma": "alemán",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Hungría",
-      "Capital": "Budapest",
-      "Poblacion": 9688847,
-      "Extension": 93028,
-      "PiB": 15791,
-      "EsperanzaVida": 75.45,
-      "Idioma": "húngaro",
-      "Moneda": "Forinto húngaro"
-     },
-     {
-      "Pais": "Albania",
-      "Capital": "Tirana",
-      "Poblacion": 2934363,
-      "Extension": 28748,
-      "PiB": 15646,
-      "EsperanzaVida": 77.4,
-      "Idioma": "albanés",
-      "Moneda": "Lek albanés"
-     },
-     {
-      "Pais": "Mauricio",
-      "Capital": "Port Louis",
-      "Poblacion": 1268315,
-      "Extension": 2040,
-      "PiB": 15637,
-      "EsperanzaVida": 76.9,
-      "Idioma": "inglés",
-      "Moneda": "Rupia de Mauricio"
-     },
-     {
-      "Pais": "Etiopía",
-      "Capital": "Adís Abeba",
-      "Poblacion": 107534882,
-      "Extension": 1104300,
-      "PiB": 15597,
-      "EsperanzaVida": 60.72,
-      "Idioma": "amárico",
-      "Moneda": "Birr etíope"
-     },
-     {
-      "Pais": "Mongolia",
-      "Capital": "Ulán Bator",
-      "Poblacion": 3121772,
-      "Extension": 1564100,
-      "PiB": 15102,
-      "EsperanzaVida": 75.9,
-      "Idioma": "mongol",
-      "Moneda": "Tugrik mongol"
-     },
-     {
-      "Pais": "Bangladés",
-      "Capital": "Daca",
-      "Poblacion": 166368149,
-      "Extension": 143998,
-      "PiB": 14816,
-      "EsperanzaVida": 72.87,
-      "Idioma": "árabe",
-      "Moneda": "Taka bangladeshí"
-     },
-     {
-      "Pais": "Argentina",
-      "Capital": "Buenos Aires",
-      "Poblacion": 44688864,
-      "Extension": 2780400,
-      "PiB": 14630,
-      "EsperanzaVida": 76.81,
-      "Idioma": "castellano",
-      "Moneda": "Peso"
-     },
-     {
-      "Pais": "Sri Lanka",
-      "Capital": "Sri Jayawardenapura Kotte",
-      "Poblacion": 20950041,
-      "Extension": 65610,
-      "PiB": 14420,
-      "EsperanzaVida": 65.53,
-      "Idioma": "cingalés",
-      "Moneda": "Rupia de Sri Lanka"
-     },
-     {
-      "Pais": "Turquía",
-      "Capital": "Ankara",
-      "Poblacion": 81916871,
-      "Extension": 783562,
-      "PiB": 14219,
-      "EsperanzaVida": 78.06,
-      "Idioma": "turco",
-      "Moneda": "Lira turca"
-     },
-     {
-      "Pais": "Siria",
-      "Capital": "Damasco",
-      "Poblacion": 18284407,
-      "Extension": 185180,
-      "PiB": 14127,
-      "EsperanzaVida": 77.14,
-      "Idioma": "árabe",
-      "Moneda": "Libra siria"
-     },
-     {
-      "Pais": "San Vicente y las Granadinas",
-      "Capital": "Kingstown",
-      "Poblacion": 110200,
-      "Extension": 389,
-      "PiB": 14051,
-      "EsperanzaVida": 70.58,
-      "Idioma": "inglés",
-      "Moneda": "Dólar del Caribe Oriental"
-     },
-     {
-      "Pais": "San Marino",
-      "Capital": "San Marino",
-      "Poblacion": 33557,
-      "Extension": 61,
-      "PiB": 14021,
-      "EsperanzaVida": 76.34,
-      "Idioma": "italiano",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Liberia",
-      "Capital": "Monrovia",
-      "Poblacion": 4853516,
-      "Extension": 111369,
-      "PiB": 134753,
-      "EsperanzaVida": 79,
-      "Idioma": "inglés",
-      "Moneda": "Dólar liberiano"
-     },
-     {
-      "Pais": "Palaos",
-      "Capital": "Melekeok",
-      "Poblacion": 21964,
-      "Extension": 459,
-      "PiB": 13975,
-      "EsperanzaVida": 78.68,
-      "Idioma": "inglés",
-      "Moneda": "Dólar estadounidense"
-     },
-     {
-      "Pais": "Palestina",
-      "Capital": "Jerusalén Este",
-      "Poblacion": 5052776,
-      "Extension": 6520,
-      "PiB": 13895,
-      "EsperanzaVida": 64.73,
-      "Idioma": "arabe",
-      "Moneda": "Nuevo shéquel"
-     },
-     {
-      "Pais": "Dinamarca",
-      "Capital": "Copenhague",
-      "Poblacion": 5754356,
-      "Extension": 43098,
-      "PiB": 13316,
-      "EsperanzaVida": 76.6,
-      "Idioma": "danés",
-      "Moneda": "Corona danesa"
-     },
-     {
-      "Pais": "Haití",
-      "Capital": "Puerto Príncipe",
-      "Poblacion": 11112945,
-      "Extension": 27750,
-      "PiB": 12904,
-      "EsperanzaVida": 70.02,
-      "Idioma": "criollo haitiano",
-      "Moneda": "Gourde haitiano"
-     },
-     {
-      "Pais": "Mauritania",
-      "Capital": "Nuakchot",
-      "Poblacion": 4540068,
-      "Extension": 1025520,
-      "PiB": 12862,
-      "EsperanzaVida": 74.18,
-      "Idioma": "árabe",
-      "Moneda": "Uguiya"
-     },
-     {
-      "Pais": "Kenia",
-      "Capital": "Nairobi",
-      "Poblacion": 50950879,
-      "Extension": 580367,
-      "PiB": 12721,
-      "EsperanzaVida": 74.66,
-      "Idioma": "inglés",
-      "Moneda": "Chelín keniano"
-     },
-     {
-      "Pais": "Estonia",
-      "Capital": "Tallin",
-      "Poblacion": 1306788,
-      "Extension": 45227,
-      "PiB": 12059,
-      "EsperanzaVida": 77.28,
-      "Idioma": "estonio",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Arabia Saudita",
-      "Capital": "Riad",
-      "Poblacion": 33554343,
-      "Extension": 2149680,
-      "PiB": 12037,
-      "EsperanzaVida": 75.28,
-      "Idioma": "árabe",
-      "Moneda": "Riyal saudí"
-     },
-     {
-      "Pais": "Sierra Leona",
-      "Capital": "Freetown",
-      "Poblacion": 7719729,
-      "Extension": 71740,
-      "PiB": 116486,
-      "EsperanzaVida": 73.65,
-      "Idioma": "inglés",
-      "Moneda": "Leone"
-     },
-     {
-      "Pais": "Croacia",
-      "Capital": "Zagreb",
-      "Poblacion": 4164783,
-      "Extension": 56594,
-      "PiB": 11973,
-      "EsperanzaVida": 78.89,
-      "Idioma": "croata",
-      "Moneda": "Kuna croata"
-     },
-     {
-      "Pais": "Cuba",
-      "Capital": "La Habana",
-      "Poblacion": 11489082,
-      "Extension": 109886,
-      "PiB": 11661,
-      "EsperanzaVida": 81.4,
-      "Idioma": "español",
-      "Moneda": "Peso cubano"
-     },
-     {
-      "Pais": "Tonga",
-      "Capital": "Nukualofa",
-      "Poblacion": 109008,
-      "Extension": 747,
-      "PiB": 11594,
-      "EsperanzaVida": 77.93,
-      "Idioma": "Inglés",
-      "Moneda": "Pa'anga"
-     },
-     {
-      "Pais": "Vaticano",
-      "Capital": "Vaticano",
-      "Poblacion": 801,
-      "Extension": 0.44,
-      "PiB": 11553,
-      "EsperanzaVida": 64.19,
-      "Idioma": "Latin",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Bután",
-      "Capital": "Thimphu",
-      "Poblacion": 817054,
-      "Extension": 38394,
-      "PiB": 11129,
-      "EsperanzaVida": 73.17,
-      "Idioma": "dzongka",
-      "Moneda": "Ngultrum butanés"
-     },
-     {
-      "Pais": "India",
-      "Capital": "Nueva Delhi",
-      "Poblacion": 1354051854,
-      "Extension": 3287260,
-      "PiB": 106455,
-      "EsperanzaVida": 85.39,
-      "Idioma": "hindi",
-      "Moneda": "Rupia india"
-     },
-     {
-      "Pais": "Laos",
-      "Capital": "Vientián",
-      "Poblacion": 6961210,
-      "Extension": 236800,
-      "PiB": 10691,
-      "EsperanzaVida": 75.59,
-      "Idioma": "lao",
-      "Moneda": "Kip laosiano"
-     },
-     {
-      "Pais": "Honduras",
-      "Capital": "Tegucigalpa",
-      "Poblacion": 9417167,
-      "Extension": 112492,
-      "PiB": 10408,
-      "EsperanzaVida": 64.32,
-      "Idioma": "español",
-      "Moneda": "Lempira hondureño"
-     },
-     {
-      "Pais": "Italia",
-      "Capital": "Roma",
-      "Poblacion": 59290969,
-      "Extension": 301336,
-      "PiB": 10355,
-      "EsperanzaVida": 73.13,
-      "Idioma": "italiano",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Islas Salomón",
-      "Capital": "Honiara",
-      "Poblacion": 623281,
-      "Extension": 28896,
-      "PiB": 10025,
-      "EsperanzaVida": 83.2,
-      "Idioma": "inglés",
-      "Moneda": "Dólar de las Islas Salomón"
-     },
-     {
-      "Pais": "Seychelles",
-      "Capital": "Victoria",
-      "Poblacion": 95235,
-      "Extension": 452,
-      "PiB": 1816,
-      "EsperanzaVida": 83.74,
-      "Idioma": "criollo seychellense",
-      "Moneda": "Rupia de Seychelles"
-     },
-     {
-      "Pais": "Luxemburgo",
-      "Capital": "Luxemburgo",
-      "Poblacion": 590321,
-      "Extension": 2586,
-      "PiB": 1658,
-      "EsperanzaVida": 74.5,
-      "Idioma": "alemán",
-      "Moneda": "Euro"
-     },
-     {
-      "Pais": "Liechtenstein",
-      "Capital": "Vaduz",
-      "Poblacion": 38155,
-      "Extension": 160,
-      "PiB": 1635,
-      "EsperanzaVida": 73.08,
-      "Idioma": "alemán",
-      "Moneda": "Franco suizo"
-     },
-     {
-      "Pais": "Chad",
-      "Capital": "Yamena",
-      "Poblacion": 15353184,
-      "Extension": 1284000,
-      "PiB": 1590,
-      "EsperanzaVida": 77.4,
-      "Idioma": "árabe",
-      "Moneda": "Franco CFA de África Central"
-     },
-     {
-      "Pais": "Lesoto",
-      "Capital": "Maseru",
-      "Poblacion": 2263010,
-      "Extension": 30355,
-      "PiB": 1552,
-      "EsperanzaVida": 68.22,
-      "Idioma": "inglés",
-      "Moneda": "Loti"
-     },
-     {
-      "Pais": "Micronesia",
-      "Capital": "Palikir",
-      "Poblacion": 531996,
-      "Extension": 702,
-      "PiB": 1342,
-      "EsperanzaVida": 75.13,
-      "Idioma": "inglés",
-      "Moneda": "Dólar estadounidense"
-     },
-     {
-      "Pais": "Namibia",
-      "Capital": "Windhoek",
-      "Poblacion": 2587801,
-      "Extension": 824268,
-      "PiB": 1309,
-      "EsperanzaVida": 64.05,
-      "Idioma": "inglés",
-      "Moneda": "Dólar namibio"
-     },
-     {
-      "Pais": "Singapur",
-      "Capital": "Singapur",
-      "Poblacion": 5791901,
-      "Extension": 710,
-      "PiB": 1302,
-      "EsperanzaVida": 57.7,
-      "Idioma": "inglés",
-      "Moneda": "Dólar de Singapur"
-     },
-     {
-      "Pais": "Sudán",
-      "Capital": "Jartum",
-      "Poblacion": 41511526,
-      "Extension": 1861480,
-      "PiB": 1234,
-      "EsperanzaVida": 83.2,
-      "Idioma": "árabe",
-      "Moneda": "Libra sudanesa"
-     },
-     {
-      "Pais": "República Checa",
-      "Capital": "Praga",
-      "Poblacion": 10625250,
-      "Extension": 78865,
-      "PiB": 1218,
-      "EsperanzaVida": 74.26,
-      "Idioma": "checo",
-      "Moneda": "Corona checa"
-     },
-     {
-      "Pais": "Portugal",
-      "Capital": "Lisboa",
-      "Poblacion": 10291196,
-      "Extension": 92090,
-      "PiB": 1020,
-      "EsperanzaVida": 53.68,
-      "Idioma": "portugués",
-      "Moneda": "Euro"
-     }
-    ],
-    
+     "Pais": "Catar",
+     "Capital": "Doha",
+     "Poblacion": 2694849,
+     "Extension": 11586,
+     "PiB": 93521,
+     "EsperanzaVida": 54.51,
+     "Idioma": "árabe",
+     "Moneda": "Riyal qatarí"
+    },
+    {
+     "Pais": "Somalia",
+     "Capital": "Mogadiscio",
+     "Poblacion": 15181925,
+     "Extension": 637657,
+     "PiB": 9815,
+     "EsperanzaVida": 64.38,
+     "Idioma": "somalí",
+     "Moneda": "Chelín somalí"
+    },
+    {
+     "Pais": "Mónaco",
+     "Capital": "Mónaco",
+     "Poblacion": 38897,
+     "Extension": 2,
+     "PiB": 9805,
+     "EsperanzaVida": 70.06,
+     "Idioma": "francés",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Gambia",
+     "Capital": "Banjul",
+     "Poblacion": 2163765,
+     "Extension": 11295,
+     "PiB": 9769,
+     "EsperanzaVida": 66.69,
+     "Idioma": "inglés",
+     "Moneda": "Dalasi"
+    },
+    {
+     "Pais": "Dominica",
+     "Capital": "Roseau",
+     "Poblacion": 74308,
+     "Extension": 751,
+     "PiB": 9668,
+     "EsperanzaVida": 77.22,
+     "Idioma": "inglés",
+     "Moneda": "Dólar del Caribe Oriental"
+    },
+    {
+     "Pais": "España",
+     "Capital": "Madrid",
+     "Poblacion": 46397452,
+     "Extension": 505992,
+     "PiB": 9119,
+     "EsperanzaVida": 74.21,
+     "Idioma": "español",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Bolivia",
+     "Capital": "Sucre",
+     "Poblacion": 11215674,
+     "Extension": 1098580,
+     "PiB": 9030,
+     "EsperanzaVida": 77.55,
+     "Idioma": "castellano",
+     "Moneda": "Boliviano"
+    },
+    {
+     "Pais": "Benín",
+     "Capital": "Porto-Novo",
+     "Poblacion": 11485674,
+     "Extension": 114763,
+     "PiB": 85192,
+     "EsperanzaVida": 62.08,
+     "Idioma": "francés",
+     "Moneda": "Franco CFA de África Occidental"
+    },
+    {
+     "Pais": "Kiribati",
+     "Capital": "Tarawa",
+     "Poblacion": 118414,
+     "Extension": 726,
+     "PiB": 8674,
+     "EsperanzaVida": 66.99,
+     "Idioma": "inglés",
+     "Moneda": "Dólar australiano"
+    },
+    {
+     "Pais": "Uruguay",
+     "Capital": "Montevideo",
+     "Poblacion": 3469551,
+     "Extension": 176215,
+     "PiB": 8497,
+     "EsperanzaVida": 75.49,
+     "Idioma": "castellano",
+     "Moneda": "Peso uruguayo"
+    },
+    {
+     "Pais": "Malaui",
+     "Capital": "Lilongüe",
+     "Poblacion": 19164728,
+     "Extension": 118484,
+     "PiB": 8143,
+     "EsperanzaVida": 76.31,
+     "Idioma": "chicheua",
+     "Moneda": "Kwacha malauí"
+    },
+    {
+     "Pais": "Burundi",
+     "Capital": "Buyumbura",
+     "Poblacion": 11216450,
+     "Extension": 27834,
+     "PiB": 793,
+     "EsperanzaVida": 72.08,
+     "Idioma": "francés",
+     "Moneda": "Franco de Burundi"
+    },
+    {
+     "Pais": "Nepal",
+     "Capital": "Katmandú",
+     "Poblacion": 29624035,
+     "Extension": 147181,
+     "PiB": 79201,
+     "EsperanzaVida": 74.7,
+     "Idioma": "nepalí",
+     "Moneda": "Rupia nepalí"
+    },
+    {
+     "Pais": "Suecia",
+     "Capital": "Estocolmo",
+     "Poblacion": 9982709,
+     "Extension": 450295,
+     "PiB": 77324,
+     "EsperanzaVida": 71.8,
+     "Idioma": "Sueco",
+     "Moneda": "Corona sueca"
+    },
+    {
+     "Pais": "Irak",
+     "Capital": "Bagdad",
+     "Poblacion": 39339753,
+     "Extension": 435244,
+     "PiB": 72481,
+     "EsperanzaVida": 69.89,
+     "Idioma": "árabe",
+     "Moneda": "Dinar iraquí"
+    },
+    {
+     "Pais": "Guyana",
+     "Capital": "Georgetown",
+     "Poblacion": 782225,
+     "Extension": 214969,
+     "PiB": 7333,
+     "EsperanzaVida": 58.63,
+     "Idioma": "inglés",
+     "Moneda": "Dólar guyanés"
+    },
+    {
+     "Pais": "Cabo Verde",
+     "Capital": "Praia",
+     "Poblacion": 553335,
+     "Extension": 4033,
+     "PiB": 7028,
+     "EsperanzaVida": 70.05,
+     "Idioma": "portugués",
+     "Moneda": "Escudo caboverdiano"
+    },
+    {
+     "Pais": "Eritrea",
+     "Capital": "Asmara",
+     "Poblacion": 5187948,
+     "Extension": 117600,
+     "PiB": 69287,
+     "EsperanzaVida": 74.8,
+     "Idioma": "árabe",
+     "Moneda": "Nakfa"
+    },
+    {
+     "Pais": "Ecuador",
+     "Capital": "Quito",
+     "Poblacion": 16863425,
+     "Extension": 256369,
+     "PiB": 66766,
+     "EsperanzaVida": 72.15,
+     "Idioma": "español",
+     "Moneda": "Dólar estadounidense"
+    },
+    {
+     "Pais": "Brunéi",
+     "Capital": "Bandar Seri Begawan",
+     "Poblacion": 434076,
+     "Extension": 5765,
+     "PiB": 66619,
+     "EsperanzaVida": 71.4,
+     "Idioma": "malayo",
+     "Moneda": "Dólar de Brunéi"
+    },
+    {
+     "Pais": "Guinea Ecuatorial",
+     "Capital": "Malabo",
+     "Poblacion": 1313894,
+     "Extension": 28051,
+     "PiB": 65972,
+     "EsperanzaVida": 61.96,
+     "Idioma": "español",
+     "Moneda": "Franco CFA de África Central"
+    },
+    {
+     "Pais": "Costa Rica",
+     "Capital": "San José",
+     "Poblacion": 4953199,
+     "Extension": 51100,
+     "PiB": 64651,
+     "EsperanzaVida": 76.8,
+     "Idioma": "español",
+     "Moneda": "Colón costarricense"
+    },
+    {
+     "Pais": "Nigeria",
+     "Capital": "Abuya",
+     "Poblacion": 195875237,
+     "Extension": 923768,
+     "PiB": 63766,
+     "EsperanzaVida": 83.2,
+     "Idioma": "inglés",
+     "Moneda": "Naira"
+    },
+    {
+     "Pais": "Bélgica",
+     "Capital": "Bruselas",
+     "Poblacion": 11498519,
+     "Extension": 30528,
+     "PiB": 6921,
+     "EsperanzaVida": 81.9,
+     "Idioma": "alemán",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Timor Oriental",
+     "Capital": "Dili",
+     "Poblacion": 1324094,
+     "Extension": 14874,
+     "PiB": 6693,
+     "EsperanzaVida": 73.63,
+     "Idioma": "portugués",
+     "Moneda": "Dólar estadounidense"
+    },
+    {
+     "Pais": "Bahamas",
+     "Capital": "Nasáu",
+     "Poblacion": 399285,
+     "Extension": 13943,
+     "PiB": 6613,
+     "EsperanzaVida": 74.05,
+     "Idioma": "inglés",
+     "Moneda": "Dólar bahameño"
+    },
+    {
+     "Pais": "Andorra",
+     "Capital": "Andorra la Vieja",
+     "Poblacion": 76953,
+     "Extension": 468,
+     "PiB": 6581,
+     "EsperanzaVida": 90,
+     "Idioma": "catalán",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Rusia",
+     "Capital": "Moscú",
+     "Poblacion": 143964709,
+     "Extension": 17098200,
+     "PiB": 6420,
+     "EsperanzaVida": 71.34,
+     "Idioma": "ruso",
+     "Moneda": "Rublo ruso"
+    },
+    {
+     "Pais": "Mozambique",
+     "Capital": "Maputo",
+     "Poblacion": 30528673,
+     "Extension": 801590,
+     "PiB": 6331,
+     "EsperanzaVida": 67.36,
+     "Idioma": "portugués",
+     "Moneda": "Metical mozambiqueño"
+    },
+    {
+     "Pais": "Guinea",
+     "Capital": "Conakri",
+     "Poblacion": 13052608,
+     "Extension": 245857,
+     "PiB": 6252,
+     "EsperanzaVida": 74.53,
+     "Idioma": "francés",
+     "Moneda": "Franco guineano"
+    },
+    {
+     "Pais": "Omán",
+     "Capital": "Mascate",
+     "Poblacion": 4829946,
+     "Extension": 309500,
+     "PiB": 6200,
+     "EsperanzaVida": 81.5,
+     "Idioma": "árabe",
+     "Moneda": "Rial omaní"
+    },
+    {
+     "Pais": "Fiyi",
+     "Capital": "Suva",
+     "Poblacion": 912241,
+     "Extension": 18272,
+     "PiB": 6134,
+     "EsperanzaVida": 82,
+     "Idioma": "indostano fiyiano",
+     "Moneda": "Dólar fiyiano"
+    },
+    {
+     "Pais": "San Cristóbal y Nieves",
+     "Capital": "Basseterre",
+     "Poblacion": 55850,
+     "Extension": 261,
+     "PiB": 59571,
+     "EsperanzaVida": 72.66,
+     "Idioma": "inglés",
+     "Moneda": "Dólar del Caribe Oriental"
+    },
+    {
+     "Pais": "Sudán del Sur",
+     "Capital": "Yuba",
+     "Poblacion": 12919053,
+     "Extension": 619745,
+     "PiB": 59324,
+     "EsperanzaVida": 84,
+     "Idioma": "inglés",
+     "Moneda": "Libra sursudanesa"
+    },
+    {
+     "Pais": "Baréin",
+     "Capital": "Manama",
+     "Poblacion": 1566993,
+     "Extension": 758,
+     "PiB": 58930,
+     "EsperanzaVida": 77.42,
+     "Idioma": "inglés",
+     "Moneda": "Dinar bahreiní"
+    },
+    {
+     "Pais": "Australia",
+     "Capital": "Canberra",
+     "Poblacion": 24772247,
+     "Extension": 7692060,
+     "PiB": 58427,
+     "EsperanzaVida": 83.2,
+     "Idioma": "inglés",
+     "Moneda": "Dólar australiano"
+    },
+    {
+     "Pais": "Alemania",
+     "Capital": "Berlín",
+     "Poblacion": 82293457,
+     "Extension": 357021,
+     "PiB": 57927,
+     "EsperanzaVida": 80.9,
+     "Idioma": "alemán",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Indonesia",
+     "Capital": "Yakarta",
+     "Poblacion": 266794980,
+     "Extension": 1910930,
+     "PiB": 57646,
+     "EsperanzaVida": 74.5,
+     "Idioma": "indonesio",
+     "Moneda": "Rupia indonesia"
+    },
+    {
+     "Pais": "Armenia",
+     "Capital": "Ereván",
+     "Poblacion": 2934152,
+     "Extension": 29743,
+     "PiB": 55807,
+     "EsperanzaVida": 75.22,
+     "Idioma": "armenio",
+     "Moneda": "Dram armenio"
+    },
+    {
+     "Pais": "Estados Unidos",
+     "Capital": "Washington D. C.",
+     "Poblacion": 326766748,
+     "Extension": 9371180,
+     "PiB": 55006,
+     "EsperanzaVida": 68,
+     "Idioma": "inglés",
+     "Moneda": "Dólar estadounidense"
+    },
+    {
+     "Pais": "Canadá",
+     "Capital": "Ottawa",
+     "Poblacion": 36953765,
+     "Extension": 9984670,
+     "PiB": 52085,
+     "EsperanzaVida": 80.36,
+     "Idioma": "inglés",
+     "Moneda": "Dólar canadiense"
+    },
+    {
+     "Pais": "Esuatini",
+     "Capital": "Mbabane",
+     "Poblacion": 1391385,
+     "Extension": 17364,
+     "PiB": 50728,
+     "EsperanzaVida": 76.9,
+     "Idioma": "suazi",
+     "Moneda": "Lilangeni"
+    },
+    {
+     "Pais": "Corea del Norte",
+     "Capital": "Pionyang",
+     "Poblacion": 25610672,
+     "Extension": 120538,
+     "PiB": 5939,
+     "EsperanzaVida": 83.5,
+     "Idioma": "coreano",
+     "Moneda": "Won norcoreano"
+    },
+    {
+     "Pais": "Vietnam",
+     "Capital": "Hanói",
+     "Poblacion": 96491146,
+     "Extension": 331212,
+     "PiB": 5925,
+     "EsperanzaVida": 73.7,
+     "Idioma": "Vietnamita",
+     "Moneda": "Dong vietnamita"
+    },
+    {
+     "Pais": "Noruega",
+     "Capital": "Oslo",
+     "Poblacion": 5353363,
+     "Extension": 323782,
+     "PiB": 5877,
+     "EsperanzaVida": 82.06,
+     "Idioma": "noruego",
+     "Moneda": "Corona noruega"
+    },
+    {
+     "Pais": "Malí",
+     "Capital": "Bamako",
+     "Poblacion": 19107706,
+     "Extension": 1241240,
+     "PiB": 5591,
+     "EsperanzaVida": 79.21,
+     "Idioma": "francés",
+     "Moneda": "Franco CFA de África Occidental"
+    },
+    {
+     "Pais": "Nauru",
+     "Capital": "Yaren",
+     "Poblacion": 11312,
+     "Extension": 21,
+     "PiB": 5459,
+     "EsperanzaVida": 71.07,
+     "Idioma": "nauruano",
+     "Moneda": "Dólar australiano"
+    },
+    {
+     "Pais": "Jordania",
+     "Capital": "Amán",
+     "Poblacion": 9903802,
+     "Extension": 89342,
+     "PiB": 5287,
+     "EsperanzaVida": 74.59,
+     "Idioma": "árabe",
+     "Moneda": "Dinar jordano"
+    },
+    {
+     "Pais": "Turkmenistán",
+     "Capital": "Asjabad",
+     "Poblacion": 5851466,
+     "Extension": 488100,
+     "PiB": 5082,
+     "EsperanzaVida": 63.71,
+     "Idioma": "turcomano",
+     "Moneda": "Manat turcomano"
+    },
+    {
+     "Pais": "Japón",
+     "Capital": "Tokio",
+     "Poblacion": 127185332,
+     "Extension": 377930,
+     "PiB": 5023,
+     "EsperanzaVida": 82.9,
+     "Idioma": "japonés",
+     "Moneda": "Yen"
+    },
+    {
+     "Pais": "Polonia",
+     "Capital": "Varsovia",
+     "Poblacion": 38104832,
+     "Extension": 312685,
+     "PiB": 49675,
+     "EsperanzaVida": 80.9,
+     "Idioma": "polaco",
+     "Moneda": "Zloty"
+    },
+    {
+     "Pais": "Antigua y Barbuda",
+     "Capital": "Saint John",
+     "Poblacion": 103050,
+     "Extension": 442,
+     "PiB": 49551,
+     "EsperanzaVida": 77.15,
+     "Idioma": "inglés",
+     "Moneda": "Dólar del Caribe Oriental"
+    },
+    {
+     "Pais": "Ucrania",
+     "Capital": "Kiev",
+     "Poblacion": 44009214,
+     "Extension": 603500,
+     "PiB": 48436,
+     "EsperanzaVida": 70.62,
+     "Idioma": "ucraniano",
+     "Moneda": "Grivna"
+    },
+    {
+     "Pais": "Malasia",
+     "Capital": "Kuala Lumpur",
+     "Poblacion": 32042458,
+     "Extension": 330803,
+     "PiB": 47714,
+     "EsperanzaVida": 67.39,
+     "Idioma": "malayo",
+     "Moneda": "Ringgit malayo"
+    },
+    {
+     "Pais": "Kirguistán",
+     "Capital": "Biskek",
+     "Poblacion": 6132932,
+     "Extension": 199951,
+     "PiB": 47303,
+     "EsperanzaVida": 71.37,
+     "Idioma": "kirguís",
+     "Moneda": "Som kirguís"
+    },
+    {
+     "Pais": "Congo",
+     "Capital": "Brazzaville",
+     "Poblacion": 5399895,
+     "Extension": 342000,
+     "PiB": 46918,
+     "EsperanzaVida": 72.45,
+     "Idioma": "árabe",
+     "Moneda": "Franco CFA de África Central"
+    },
+    {
+     "Pais": "Nicaragua",
+     "Capital": "Managua",
+     "Poblacion": 6284757,
+     "Extension": 130373,
+     "PiB": 46419,
+     "EsperanzaVida": 62.79,
+     "Idioma": "español",
+     "Moneda": "Córdoba nicaragüense"
+    },
+    {
+     "Pais": "Islas Marshall",
+     "Capital": "Majuro",
+     "Poblacion": 53167,
+     "Extension": 181,
+     "PiB": 45936,
+     "EsperanzaVida": 82.6,
+     "Idioma": "marshalés",
+     "Moneda": "Dólar estadounidense"
+    },
+    {
+     "Pais": "Barbados",
+     "Capital": "Bridgetown",
+     "Poblacion": 286388,
+     "Extension": 430,
+     "PiB": 45411,
+     "EsperanzaVida": 79.31,
+     "Idioma": "bengalí",
+     "Moneda": "Dólar de Barbados"
+    },
+    {
+     "Pais": "Reino Unido",
+     "Capital": "Londres",
+     "Poblacion": 66573504,
+     "Extension": 242900,
+     "PiB": 44260,
+     "EsperanzaVida": 64.8,
+     "Idioma": "inglés",
+     "Moneda": "Libra británica"
+    },
+    {
+     "Pais": "Islandia",
+     "Capital": "Reikiavik",
+     "Poblacion": 337780,
+     "Extension": 103000,
+     "PiB": 43721,
+     "EsperanzaVida": 76.87,
+     "Idioma": "islandés",
+     "Moneda": "Corona islandes"
+    },
+    {
+     "Pais": "El Salvador",
+     "Capital": "San Salvador",
+     "Poblacion": 6411558,
+     "Extension": 21041,
+     "PiB": 43624,
+     "EsperanzaVida": 78.12,
+     "Idioma": "español",
+     "Moneda": "Dólar estadounidense"
+    },
+    {
+     "Pais": "Israel",
+     "Capital": "Jerusalén",
+     "Poblacion": 8452841,
+     "Extension": 22072,
+     "PiB": 42940,
+     "EsperanzaVida": 65.24,
+     "Idioma": "árabe",
+     "Moneda": "Nuevo shéquel"
+    },
+    {
+     "Pais": "Líbano",
+     "Capital": "Beirut",
+     "Poblacion": 6093509,
+     "Extension": 10452,
+     "PiB": 42665,
+     "EsperanzaVida": 73.4,
+     "Idioma": "árabe",
+     "Moneda": "Libra libanesa"
+    },
+    {
+     "Pais": "Chipre",
+     "Capital": "Nicosia",
+     "Poblacion": 1189085,
+     "Extension": 9251,
+     "PiB": 42556,
+     "EsperanzaVida": 81.8,
+     "Idioma": "griego",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Eslovaquia",
+     "Capital": "Bratislava",
+     "Poblacion": 5449816,
+     "Extension": 49037,
+     "PiB": 42191,
+     "EsperanzaVida": 80.9,
+     "Idioma": "eslovaco",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Emiratos Árabes Unidos",
+     "Capital": "Abu Dabi",
+     "Poblacion": 9541615,
+     "Extension": 83600,
+     "PiB": 40775,
+     "EsperanzaVida": 66.68,
+     "Idioma": "árabe",
+     "Moneda": "Dirham de los Emiratos Árabes Unidos"
+    },
+    {
+     "Pais": "Camboya",
+     "Capital": "Nom Pen",
+     "Poblacion": 16245729,
+     "Extension": 181035,
+     "PiB": 4683,
+     "EsperanzaVida": 59.63,
+     "Idioma": "camboyano",
+     "Moneda": "Riel camboyano"
+    },
+    {
+     "Pais": "Pakistán",
+     "Capital": "Islamabad",
+     "Poblacion": 200813818,
+     "Extension": 796095,
+     "PiB": 4445,
+     "EsperanzaVida": 69.13,
+     "Idioma": "Urdu",
+     "Moneda": "Rupia pakistaní"
+    },
+    {
+     "Pais": "Santa Lucía",
+     "Capital": "Castries",
+     "Poblacion": 179667,
+     "Extension": 539,
+     "PiB": 4445,
+     "EsperanzaVida": 68.21,
+     "Idioma": "inglés",
+     "Moneda": "Dólar del Caribe Oriental"
+    },
+    {
+     "Pais": "Tanzania",
+     "Capital": "Dodoma",
+     "Poblacion": 59091392,
+     "Extension": 945087,
+     "PiB": 4417,
+     "EsperanzaVida": 61.34,
+     "Idioma": "suahili",
+     "Moneda": "Chelín tanzano"
+    },
+    {
+     "Pais": "Birmania",
+     "Capital": "Naipyidó",
+     "Poblacion": 53855735,
+     "Extension": 676578,
+     "PiB": 4344,
+     "EsperanzaVida": 71.77,
+     "Idioma": "birmano",
+     "Moneda": "Kyat birmano"
+    },
+    {
+     "Pais": "Taiwán",
+     "Capital": "Taipéi",
+     "Poblacion": 23519518,
+     "Extension": 36191,
+     "PiB": 4288,
+     "EsperanzaVida": 69.71,
+     "Idioma": "mandarin",
+     "Moneda": "Nuevo dólar taiwanés"
+    },
+    {
+     "Pais": "Montenegro",
+     "Capital": "Podgorica",
+     "Poblacion": 629219,
+     "Extension": 13812,
+     "PiB": 4260,
+     "EsperanzaVida": 61.39,
+     "Idioma": "serbio",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Sudáfrica",
+     "Capital": "Pretoria",
+     "Poblacion": 57398421,
+     "Extension": 1221040,
+     "PiB": 4217,
+     "EsperanzaVida": 58.1,
+     "Idioma": "afrikáans",
+     "Moneda": "Rand sudafricano"
+    },
+    {
+     "Pais": "Irán",
+     "Capital": "Teherán",
+     "Poblacion": 82011735,
+     "Extension": 1648200,
+     "PiB": 4181,
+     "EsperanzaVida": 71.91,
+     "Idioma": "persa",
+     "Moneda": "Rial iraní"
+    },
+    {
+     "Pais": "Camerún",
+     "Capital": "Yaundé",
+     "Poblacion": 24678234,
+     "Extension": 475442,
+     "PiB": 4064,
+     "EsperanzaVida": 81.75,
+     "Idioma": "francés",
+     "Moneda": "Franco CFA de África Central"
+    },
+    {
+     "Pais": "Panamá",
+     "Capital": "Panamá",
+     "Poblacion": 4162618,
+     "Extension": 75417,
+     "PiB": 37502,
+     "EsperanzaVida": 74.36,
+     "Idioma": "español",
+     "Moneda": "Balboa panameño"
+    },
+    {
+     "Pais": "Guinea-Bisáu",
+     "Capital": "Bisáu",
+     "Poblacion": 1907268,
+     "Extension": 36125,
+     "PiB": 36752,
+     "EsperanzaVida": 59.06,
+     "Idioma": "portugués",
+     "Moneda": "Franco CFA de África Occidental"
+    },
+    {
+     "Pais": "Papúa Nueva Guinea",
+     "Capital": "Puerto Moresby",
+     "Poblacion": 8418346,
+     "Extension": 462840,
+     "PiB": 35888,
+     "EsperanzaVida": 76.95,
+     "Idioma": "hiri motu",
+     "Moneda": "Kina"
+    },
+    {
+     "Pais": "Ruanda",
+     "Capital": "Kigali",
+     "Poblacion": 12501156,
+     "Extension": 26338,
+     "PiB": 35414,
+     "EsperanzaVida": 71.34,
+     "Idioma": "francés",
+     "Moneda": "Franco ruandés"
+    },
+    {
+     "Pais": "Kuwait",
+     "Capital": "Kuwait City",
+     "Poblacion": 4197128,
+     "Extension": 17818,
+     "PiB": 34468,
+     "EsperanzaVida": 68.61,
+     "Idioma": "árabe",
+     "Moneda": "Dinar kuwaití"
+    },
+    {
+     "Pais": "Perú",
+     "Capital": "Lima",
+     "Poblacion": 32551815,
+     "Extension": 1285220,
+     "PiB": 34333,
+     "EsperanzaVida": 81.2,
+     "Idioma": "castellano",
+     "Moneda": "Nuevo sol"
+    },
+    {
+     "Pais": "Azerbaiyán",
+     "Capital": "Bakú",
+     "Poblacion": 9923914,
+     "Extension": 86600,
+     "PiB": 34107,
+     "EsperanzaVida": 73.12,
+     "Idioma": "azerí",
+     "Moneda": "Manat azerí"
+    },
+    {
+     "Pais": "Costa de Marfil",
+     "Capital": "Yamusukro",
+     "Poblacion": 24905843,
+     "Extension": 322463,
+     "PiB": 33800,
+     "EsperanzaVida": 80.47,
+     "Idioma": "francés",
+     "Moneda": "Franco CFA de África Occidental"
+    },
+    {
+     "Pais": "Egipto",
+     "Capital": "El Cairo",
+     "Poblacion": 99375741,
+     "Extension": 1002450,
+     "PiB": 33010,
+     "EsperanzaVida": 73.53,
+     "Idioma": "árabe",
+     "Moneda": "Libra egipcia"
+    },
+    {
+     "Pais": "Rumania",
+     "Capital": "Bucarest",
+     "Poblacion": 19580634,
+     "Extension": 238391,
+     "PiB": 32803,
+     "EsperanzaVida": 73.45,
+     "Idioma": "rumano",
+     "Moneda": "Leu rumano"
+    },
+    {
+     "Pais": "Países Bajos",
+     "Capital": "Ámsterdam",
+     "Poblacion": 17084459,
+     "Extension": 41540,
+     "PiB": 31680,
+     "EsperanzaVida": 67.43,
+     "Idioma": "neerlandés",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Gabón",
+     "Capital": "Libreville",
+     "Poblacion": 2067561,
+     "Extension": 267668,
+     "PiB": 31295,
+     "EsperanzaVida": 82.5,
+     "Idioma": "francés",
+     "Moneda": "Franco CFA de África Central"
+    },
+    {
+     "Pais": "Níger",
+     "Capital": "Niamey",
+     "Poblacion": 22311375,
+     "Extension": 1267000,
+     "PiB": 31117,
+     "EsperanzaVida": 55.02,
+     "Idioma": "francés",
+     "Moneda": "Franco CFA de África Occidental"
+    },
+    {
+     "Pais": "Túnez",
+     "Capital": "Túnez",
+     "Poblacion": 11659174,
+     "Extension": 163610,
+     "PiB": 30472,
+     "EsperanzaVida": 71.19,
+     "Idioma": "árabe",
+     "Moneda": "Dinar tunecino"
+    },
+    {
+     "Pais": "Yibuti",
+     "Capital": "Yibuti",
+     "Poblacion": 971408,
+     "Extension": 23200,
+     "PiB": 3840,
+     "EsperanzaVida": 65.8,
+     "Idioma": "árabe",
+     "Moneda": "Franco yibutiano"
+    },
+    {
+     "Pais": "Belice",
+     "Capital": "Belmopán",
+     "Poblacion": 382444,
+     "Extension": 22966,
+     "PiB": 3789,
+     "EsperanzaVida": 74.75,
+     "Idioma": "inglés",
+     "Moneda": "Dólar beliceño"
+    },
+    {
+     "Pais": "Santo Tomé y Príncipe",
+     "Capital": "Santo Tomé",
+     "Poblacion": 208818,
+     "Extension": 964,
+     "PiB": 3768,
+     "EsperanzaVida": 74.5,
+     "Idioma": "portugués",
+     "Moneda": "Dobra"
+    },
+    {
+     "Pais": "Venezuela",
+     "Capital": "Caracas",
+     "Poblacion": 32381221,
+     "Extension": 912050,
+     "PiB": 3688,
+     "EsperanzaVida": 61.74,
+     "Idioma": "Español",
+     "Moneda": "Bolívar fuerte"
+    },
+    {
+     "Pais": "Yemen",
+     "Capital": "Saná",
+     "Poblacion": 28915284,
+     "Extension": 527968,
+     "PiB": 3623,
+     "EsperanzaVida": 66.6,
+     "Idioma": "árabe",
+     "Moneda": "Rial yemení"
+    },
+    {
+     "Pais": "República Centroafricana",
+     "Capital": "Bangui",
+     "Poblacion": 4737423,
+     "Extension": 622984,
+     "PiB": 3616,
+     "EsperanzaVida": 60.97,
+     "Idioma": "francés",
+     "Moneda": "Franco CFA de África Central"
+    },
+    {
+     "Pais": "Marruecos",
+     "Capital": "Rabat",
+     "Poblacion": 36191805,
+     "Extension": 446550,
+     "PiB": 3544,
+     "EsperanzaVida": 82.9,
+     "Idioma": "árabe",
+     "Moneda": "Dirham marroquí"
+    },
+    {
+     "Pais": "Comoras",
+     "Capital": "Moroni",
+     "Poblacion": 832347,
+     "Extension": 2170,
+     "PiB": 3284,
+     "EsperanzaVida": 64.53,
+     "Idioma": "Español",
+     "Moneda": "Franco comorano"
+    },
+    {
+     "Pais": "Guatemala",
+     "Capital": "Guatemala",
+     "Poblacion": 17245346,
+     "Extension": 108889,
+     "PiB": 3127,
+     "EsperanzaVida": 80.3,
+     "Idioma": "español",
+     "Moneda": "Quetzal guatemalteco"
+    },
+    {
+     "Pais": "Uzbekistán",
+     "Capital": "Taskent",
+     "Poblacion": 32364996,
+     "Extension": 447400,
+     "PiB": 3105,
+     "EsperanzaVida": 66.18,
+     "Idioma": "uzbeko",
+     "Moneda": "Som uzbeko"
+    },
+    {
+     "Pais": "Serbia",
+     "Capital": "Belgrado",
+     "Poblacion": 8762027,
+     "Extension": 88361,
+     "PiB": 29837,
+     "EsperanzaVida": 55.07,
+     "Idioma": "serbio",
+     "Moneda": "Dinar serbio"
+    },
+    {
+     "Pais": "Lituania",
+     "Capital": "Vilna",
+     "Poblacion": 2876475,
+     "Extension": 65300,
+     "PiB": 29617,
+     "EsperanzaVida": 84.4,
+     "Idioma": "lituano",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Chile",
+     "Capital": "Santiago",
+     "Poblacion": 18197209,
+     "Extension": 756102,
+     "PiB": 29104,
+     "EsperanzaVida": 80.33,
+     "Idioma": "castellano",
+     "Moneda": "Peso chileno"
+    },
+    {
+     "Pais": "Jamaica",
+     "Capital": "Kingston",
+     "Poblacion": 2898677,
+     "Extension": 10991,
+     "PiB": 28600,
+     "EsperanzaVida": 82.7,
+     "Idioma": "inglés",
+     "Moneda": "Dólar jamaiquino"
+    },
+    {
+     "Pais": "Zimbabue",
+     "Capital": "Harare",
+     "Poblacion": 16913261,
+     "Extension": 390757,
+     "PiB": 27806,
+     "EsperanzaVida": 60.7,
+     "Idioma": "inglés",
+     "Moneda": "Dólar estadounidense"
+    },
+    {
+     "Pais": "Togo",
+     "Capital": "Lomé",
+     "Poblacion": 7990926,
+     "Extension": 56785,
+     "PiB": 26868,
+     "EsperanzaVida": 76.89,
+     "Idioma": "francés",
+     "Moneda": "Franco CFA de África Occidental"
+    },
+    {
+     "Pais": "Bulgaria",
+     "Capital": "Sofía",
+     "Poblacion": 7036848,
+     "Extension": 110879,
+     "PiB": 26705,
+     "EsperanzaVida": 61.98,
+     "Idioma": "búlgaro",
+     "Moneda": "Lev búlgaro"
+    },
+    {
+     "Pais": "Samoa",
+     "Capital": "Apia",
+     "Poblacion": 55679,
+     "Extension": 2842,
+     "PiB": 26256,
+     "EsperanzaVida": 85.6,
+     "Idioma": "inglés",
+     "Moneda": "Tala"
+    },
+    {
+     "Pais": "Uganda",
+     "Capital": "Kampala",
+     "Poblacion": 44270563,
+     "Extension": 241550,
+     "PiB": 24625,
+     "EsperanzaVida": 72.07,
+     "Idioma": "inglés",
+     "Moneda": "Chelín ugandés"
+    },
+    {
+     "Pais": "Grecia",
+     "Capital": "Atenas",
+     "Poblacion": 11142161,
+     "Extension": 131957,
+     "PiB": 24493,
+     "EsperanzaVida": 72.43,
+     "Idioma": "griego",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Zambia",
+     "Capital": "Lusaka",
+     "Poblacion": 17609178,
+     "Extension": 752612,
+     "PiB": 23967,
+     "EsperanzaVida": 62.5,
+     "Idioma": "inglés",
+     "Moneda": "Kwacha zambiano"
+    },
+    {
+     "Pais": "Argelia",
+     "Capital": "Argel",
+     "Poblacion": 42008054,
+     "Extension": 2381740,
+     "PiB": 23627,
+     "EsperanzaVida": 77.06,
+     "Idioma": "árabe",
+     "Moneda": "Dinar argelino"
+    },
+    {
+     "Pais": "Corea del Sur",
+     "Capital": "Seúl",
+     "Poblacion": 51164435,
+     "Extension": 99828,
+     "PiB": 23387,
+     "EsperanzaVida": 58.1,
+     "Idioma": "coreano",
+     "Moneda": "Won surcoreano"
+    },
+    {
+     "Pais": "Letonia",
+     "Capital": "Riga",
+     "Poblacion": 1929938,
+     "Extension": 64559,
+     "PiB": 23356,
+     "EsperanzaVida": 54.84,
+     "Idioma": "letón",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Paraguay",
+     "Capital": "Asunción",
+     "Poblacion": 6896908,
+     "Extension": 406752,
+     "PiB": 22894,
+     "EsperanzaVida": 75.6,
+     "Idioma": "español",
+     "Moneda": "Guaraní"
+    },
+    {
+     "Pais": "México",
+     "Capital": "México",
+     "Poblacion": 130759074,
+     "Extension": 1964380,
+     "PiB": 22795,
+     "EsperanzaVida": 65.13,
+     "Idioma": "castellano",
+     "Moneda": "Peso mexicano"
+    },
+    {
+     "Pais": "Maldivas",
+     "Capital": "Malé",
+     "Poblacion": 444259,
+     "Extension": 300,
+     "PiB": 22240,
+     "EsperanzaVida": 64.69,
+     "Idioma": "maldivo",
+     "Moneda": "Rupia de Maldivas"
+    },
+    {
+     "Pais": "Bielorrusia",
+     "Capital": "Minsk",
+     "Poblacion": 9452113,
+     "Extension": 207600,
+     "PiB": 21698,
+     "EsperanzaVida": 74.23,
+     "Idioma": "bielorruso",
+     "Moneda": "Rublo bielorruso"
+    },
+    {
+     "Pais": "Senegal",
+     "Capital": "Dakar",
+     "Poblacion": 16294270,
+     "Extension": 196722,
+     "PiB": 21432,
+     "EsperanzaVida": 77.24,
+     "Idioma": "francés",
+     "Moneda": "Franco CFA de África Occidental"
+    },
+    {
+     "Pais": "República Democrática del Congo",
+     "Capital": "Kinsasa",
+     "Poblacion": 84004989,
+     "Extension": 2344860,
+     "PiB": 20769,
+     "EsperanzaVida": 69.33,
+     "Idioma": "francés",
+     "Moneda": "Franco congoleño"
+    },
+    {
+     "Pais": "Malta",
+     "Capital": "La Valeta",
+     "Poblacion": 432089,
+     "Extension": 316,
+     "PiB": 20036,
+     "EsperanzaVida": 59.69,
+     "Idioma": "inglés",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Tailandia",
+     "Capital": "Bangkok",
+     "Poblacion": 69183173,
+     "Extension": 513120,
+     "PiB": 2932,
+     "EsperanzaVida": 71.3,
+     "Idioma": "tailandés",
+     "Moneda": "Baht tailandés"
+    },
+    {
+     "Pais": "Georgia",
+     "Capital": "Tiflis",
+     "Poblacion": 3907131,
+     "Extension": 69700,
+     "PiB": 2878,
+     "EsperanzaVida": 62.38,
+     "Idioma": "georgiano",
+     "Moneda": "Lari georgiano"
+    },
+    {
+     "Pais": "Kosovo",
+     "Capital": "Pristina",
+     "Poblacion": 1797151,
+     "Extension": 10887,
+     "PiB": 2682,
+     "EsperanzaVida": 71.8,
+     "Idioma": "albanés",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Irlanda",
+     "Capital": "Dublín",
+     "Poblacion": 4803748,
+     "Extension": 70273,
+     "PiB": 2656,
+     "EsperanzaVida": 70.75,
+     "Idioma": "inglés",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Eslovenia",
+     "Capital": "Liubliana",
+     "Poblacion": 2081260,
+     "Extension": 20273,
+     "PiB": 2599,
+     "EsperanzaVida": 83.06,
+     "Idioma": "esloveno",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "República Dominicana",
+     "Capital": "Santo Domingo",
+     "Poblacion": 10882996,
+     "Extension": 48671,
+     "PiB": 2494,
+     "EsperanzaVida": 72.9,
+     "Idioma": "español",
+     "Moneda": "Peso dominicano"
+    },
+    {
+     "Pais": "Burkina Faso",
+     "Capital": "Uagadugú",
+     "Poblacion": 19751651,
+     "Extension": 272967,
+     "PiB": 2461,
+     "EsperanzaVida": 61.92,
+     "Idioma": "francés",
+     "Moneda": "Franco CFA de África Occidental"
+    },
+    {
+     "Pais": "Madagascar",
+     "Capital": "Antananarivo",
+     "Poblacion": 26262810,
+     "Extension": 587041,
+     "PiB": 2447,
+     "EsperanzaVida": 74.4,
+     "Idioma": "francés",
+     "Moneda": "Ariary malgache"
+    },
+    {
+     "Pais": "Filipinas",
+     "Capital": "Manila",
+     "Poblacion": 106512074,
+     "Extension": 300000,
+     "PiB": 2433,
+     "EsperanzaVida": 66.95,
+     "Idioma": "filipino",
+     "Moneda": "Peso filipino"
+    },
+    {
+     "Pais": "Tuvalu",
+     "Capital": "Funafuti",
+     "Poblacion": 11287,
+     "Extension": 26,
+     "PiB": 2397,
+     "EsperanzaVida": 71.85,
+     "Idioma": "tuvaluano",
+     "Moneda": "Dólar australiano"
+    },
+    {
+     "Pais": "Kazajistán",
+     "Capital": "Astaná",
+     "Poblacion": 18403860,
+     "Extension": 2724910,
+     "PiB": 2383,
+     "EsperanzaVida": 84.62,
+     "Idioma": "kazajo",
+     "Moneda": "Tenge kazajo"
+    },
+    {
+     "Pais": "Tayikistán",
+     "Capital": "Dusambé",
+     "Poblacion": 9107211,
+     "Extension": 143100,
+     "PiB": 2380,
+     "EsperanzaVida": 71.02,
+     "Idioma": "tayiko",
+     "Moneda": "Somoni tayiko"
+    },
+    {
+     "Pais": "Afganistán",
+     "Capital": "Kabul",
+     "Poblacion": 36373176,
+     "Extension": 652090,
+     "PiB": 2078,
+     "EsperanzaVida": 65.17,
+     "Idioma": "pastún",
+     "Moneda": "Afgani afgano"
+    },
+    {
+     "Pais": "Granada",
+     "Capital": "Saint George",
+     "Poblacion": 108339,
+     "Extension": 344,
+     "PiB": 2057,
+     "EsperanzaVida": 64.35,
+     "Idioma": "inglés",
+     "Moneda": "Dólar del Caribe Oriental"
+    },
+    {
+     "Pais": "Angola",
+     "Capital": "Luanda",
+     "Poblacion": 30774205,
+     "Extension": 1246700,
+     "PiB": 19837,
+     "EsperanzaVida": 61.49,
+     "Idioma": "portugués",
+     "Moneda": "Kwanza angoleño"
+    },
+    {
+     "Pais": "China",
+     "Capital": "Pekín",
+     "Poblacion": 1415045928,
+     "Extension": 9598000,
+     "PiB": 19338,
+     "EsperanzaVida": 77.1,
+     "Idioma": "mandarin",
+     "Moneda": "Yuan chino"
+    },
+    {
+     "Pais": "Surinam",
+     "Capital": "Paramaribo",
+     "Poblacion": 568301,
+     "Extension": 163820,
+     "PiB": 19209,
+     "EsperanzaVida": 65.82,
+     "Idioma": "neerlandés",
+     "Moneda": "Dólar surinamés"
+    },
+    {
+     "Pais": "Moldavia",
+     "Capital": "Chisináu",
+     "Poblacion": 4041065,
+     "Extension": 33846,
+     "PiB": 18724,
+     "EsperanzaVida": 72.01,
+     "Idioma": "moldavo",
+     "Moneda": "Leu moldavo"
+    },
+    {
+     "Pais": "Macedonia del Norte",
+     "Capital": "Skopie",
+     "Poblacion": 2085051,
+     "Extension": 25713,
+     "PiB": 18232,
+     "EsperanzaVida": 82.8,
+     "Idioma": "macedonio",
+     "Moneda": "Denar macedonio"
+    },
+    {
+     "Pais": "Ghana",
+     "Capital": "Accra",
+     "Poblacion": 29463643,
+     "Extension": 238533,
+     "PiB": 18127,
+     "EsperanzaVida": 73.92,
+     "Idioma": "inglés",
+     "Moneda": "Cedi"
+    },
+    {
+     "Pais": "Libia",
+     "Capital": "Trípoli",
+     "Poblacion": 6470956,
+     "Extension": 1759540,
+     "PiB": 17918,
+     "EsperanzaVida": 64.42,
+     "Idioma": "árabe",
+     "Moneda": "Dinar libio"
+    },
+    {
+     "Pais": "Botsuana",
+     "Capital": "Gaborone",
+     "Poblacion": 2333201,
+     "Extension": 582000,
+     "PiB": 17603,
+     "EsperanzaVida": 76.08,
+     "Idioma": "inglés",
+     "Moneda": "Pula"
+    },
+    {
+     "Pais": "Vanuatu",
+     "Capital": "Port Vila",
+     "Poblacion": 282117,
+     "Extension": 12189,
+     "PiB": 17527,
+     "EsperanzaVida": 67.49,
+     "Idioma": "bislama",
+     "Moneda": "Vatu"
+    },
+    {
+     "Pais": "Finlandia",
+     "Capital": "Helsinki",
+     "Poblacion": 5542517,
+     "Extension": 338424,
+     "PiB": 16997,
+     "EsperanzaVida": 71.36,
+     "Idioma": "finés",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Colombia",
+     "Capital": "Bogotá",
+     "Poblacion": 49464683,
+     "Extension": 1141750,
+     "PiB": 16893,
+     "EsperanzaVida": 77.46,
+     "Idioma": "italiano",
+     "Moneda": "Peso colombiano"
+    },
+    {
+     "Pais": "Bosnia-Herzegovina",
+     "Capital": "Sarajevo",
+     "Poblacion": 3503554,
+     "Extension": 51197,
+     "PiB": 16846,
+     "EsperanzaVida": 69.79,
+     "Idioma": "bosnio",
+     "Moneda": "Marco convertible"
+    },
+    {
+     "Pais": "Francia",
+     "Capital": "París",
+     "Poblacion": 65233271,
+     "Extension": 640597,
+     "PiB": 16680,
+     "EsperanzaVida": 67.56,
+     "Idioma": "francés",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Suiza",
+     "Capital": "Berna",
+     "Poblacion": 8544034,
+     "Extension": 41277,
+     "PiB": 16675,
+     "EsperanzaVida": 77.34,
+     "Idioma": "alemán",
+     "Moneda": "Franco suizo"
+    },
+    {
+     "Pais": "Nueva Zelanda",
+     "Capital": "Wellington",
+     "Poblacion": 4749598,
+     "Extension": 270469,
+     "PiB": 16318,
+     "EsperanzaVida": 78.08,
+     "Idioma": "inglés",
+     "Moneda": "Dólar neozelandés"
+    },
+    {
+     "Pais": "Trinidad y Tobago",
+     "Capital": "Puerto España",
+     "Poblacion": 1372598,
+     "Extension": 5130,
+     "PiB": 16194,
+     "EsperanzaVida": 68.31,
+     "Idioma": "inglés",
+     "Moneda": "Dólar trinitense"
+    },
+    {
+     "Pais": "Brasil",
+     "Capital": "Brasilia",
+     "Poblacion": 210867954,
+     "Extension": 8514880,
+     "PiB": 16056,
+     "EsperanzaVida": 76,
+     "Idioma": "portugués",
+     "Moneda": "Real brasileño"
+    },
+    {
+     "Pais": "Austria",
+     "Capital": "Viena",
+     "Poblacion": 8751820,
+     "Extension": 83871,
+     "PiB": 15842,
+     "EsperanzaVida": 81.3,
+     "Idioma": "alemán",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Hungría",
+     "Capital": "Budapest",
+     "Poblacion": 9688847,
+     "Extension": 93028,
+     "PiB": 15791,
+     "EsperanzaVida": 75.45,
+     "Idioma": "húngaro",
+     "Moneda": "Forinto húngaro"
+    },
+    {
+     "Pais": "Albania",
+     "Capital": "Tirana",
+     "Poblacion": 2934363,
+     "Extension": 28748,
+     "PiB": 15646,
+     "EsperanzaVida": 77.4,
+     "Idioma": "albanés",
+     "Moneda": "Lek albanés"
+    },
+    {
+     "Pais": "Mauricio",
+     "Capital": "Port Louis",
+     "Poblacion": 1268315,
+     "Extension": 2040,
+     "PiB": 15637,
+     "EsperanzaVida": 76.9,
+     "Idioma": "inglés",
+     "Moneda": "Rupia de Mauricio"
+    },
+    {
+     "Pais": "Etiopía",
+     "Capital": "Adís Abeba",
+     "Poblacion": 107534882,
+     "Extension": 1104300,
+     "PiB": 15597,
+     "EsperanzaVida": 60.72,
+     "Idioma": "amárico",
+     "Moneda": "Birr etíope"
+    },
+    {
+     "Pais": "Mongolia",
+     "Capital": "Ulán Bator",
+     "Poblacion": 3121772,
+     "Extension": 1564100,
+     "PiB": 15102,
+     "EsperanzaVida": 75.9,
+     "Idioma": "mongol",
+     "Moneda": "Tugrik mongol"
+    },
+    {
+     "Pais": "Bangladés",
+     "Capital": "Daca",
+     "Poblacion": 166368149,
+     "Extension": 143998,
+     "PiB": 14816,
+     "EsperanzaVida": 72.87,
+     "Idioma": "árabe",
+     "Moneda": "Taka bangladeshí"
+    },
+    {
+     "Pais": "Argentina",
+     "Capital": "Buenos Aires",
+     "Poblacion": 44688864,
+     "Extension": 2780400,
+     "PiB": 14630,
+     "EsperanzaVida": 76.81,
+     "Idioma": "castellano",
+     "Moneda": "Peso"
+    },
+    {
+     "Pais": "Sri Lanka",
+     "Capital": "Sri Jayawardenapura Kotte",
+     "Poblacion": 20950041,
+     "Extension": 65610,
+     "PiB": 14420,
+     "EsperanzaVida": 65.53,
+     "Idioma": "cingalés",
+     "Moneda": "Rupia de Sri Lanka"
+    },
+    {
+     "Pais": "Turquía",
+     "Capital": "Ankara",
+     "Poblacion": 81916871,
+     "Extension": 783562,
+     "PiB": 14219,
+     "EsperanzaVida": 78.06,
+     "Idioma": "turco",
+     "Moneda": "Lira turca"
+    },
+    {
+     "Pais": "Siria",
+     "Capital": "Damasco",
+     "Poblacion": 18284407,
+     "Extension": 185180,
+     "PiB": 14127,
+     "EsperanzaVida": 77.14,
+     "Idioma": "árabe",
+     "Moneda": "Libra siria"
+    },
+    {
+     "Pais": "San Vicente y las Granadinas",
+     "Capital": "Kingstown",
+     "Poblacion": 110200,
+     "Extension": 389,
+     "PiB": 14051,
+     "EsperanzaVida": 70.58,
+     "Idioma": "inglés",
+     "Moneda": "Dólar del Caribe Oriental"
+    },
+    {
+     "Pais": "San Marino",
+     "Capital": "San Marino",
+     "Poblacion": 33557,
+     "Extension": 61,
+     "PiB": 14021,
+     "EsperanzaVida": 76.34,
+     "Idioma": "italiano",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Liberia",
+     "Capital": "Monrovia",
+     "Poblacion": 4853516,
+     "Extension": 111369,
+     "PiB": 134753,
+     "EsperanzaVida": 79,
+     "Idioma": "inglés",
+     "Moneda": "Dólar liberiano"
+    },
+    {
+     "Pais": "Palaos",
+     "Capital": "Melekeok",
+     "Poblacion": 21964,
+     "Extension": 459,
+     "PiB": 13975,
+     "EsperanzaVida": 78.68,
+     "Idioma": "inglés",
+     "Moneda": "Dólar estadounidense"
+    },
+    {
+     "Pais": "Palestina",
+     "Capital": "Jerusalén Este",
+     "Poblacion": 5052776,
+     "Extension": 6520,
+     "PiB": 13895,
+     "EsperanzaVida": 64.73,
+     "Idioma": "arabe",
+     "Moneda": "Nuevo shéquel"
+    },
+    {
+     "Pais": "Dinamarca",
+     "Capital": "Copenhague",
+     "Poblacion": 5754356,
+     "Extension": 43098,
+     "PiB": 13316,
+     "EsperanzaVida": 76.6,
+     "Idioma": "danés",
+     "Moneda": "Corona danesa"
+    },
+    {
+     "Pais": "Haití",
+     "Capital": "Puerto Príncipe",
+     "Poblacion": 11112945,
+     "Extension": 27750,
+     "PiB": 12904,
+     "EsperanzaVida": 70.02,
+     "Idioma": "criollo haitiano",
+     "Moneda": "Gourde haitiano"
+    },
+    {
+     "Pais": "Mauritania",
+     "Capital": "Nuakchot",
+     "Poblacion": 4540068,
+     "Extension": 1025520,
+     "PiB": 12862,
+     "EsperanzaVida": 74.18,
+     "Idioma": "árabe",
+     "Moneda": "Uguiya"
+    },
+    {
+     "Pais": "Kenia",
+     "Capital": "Nairobi",
+     "Poblacion": 50950879,
+     "Extension": 580367,
+     "PiB": 12721,
+     "EsperanzaVida": 74.66,
+     "Idioma": "inglés",
+     "Moneda": "Chelín keniano"
+    },
+    {
+     "Pais": "Estonia",
+     "Capital": "Tallin",
+     "Poblacion": 1306788,
+     "Extension": 45227,
+     "PiB": 12059,
+     "EsperanzaVida": 77.28,
+     "Idioma": "estonio",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Arabia Saudita",
+     "Capital": "Riad",
+     "Poblacion": 33554343,
+     "Extension": 2149680,
+     "PiB": 12037,
+     "EsperanzaVida": 75.28,
+     "Idioma": "árabe",
+     "Moneda": "Riyal saudí"
+    },
+    {
+     "Pais": "Sierra Leona",
+     "Capital": "Freetown",
+     "Poblacion": 7719729,
+     "Extension": 71740,
+     "PiB": 116486,
+     "EsperanzaVida": 73.65,
+     "Idioma": "inglés",
+     "Moneda": "Leone"
+    },
+    {
+     "Pais": "Croacia",
+     "Capital": "Zagreb",
+     "Poblacion": 4164783,
+     "Extension": 56594,
+     "PiB": 11973,
+     "EsperanzaVida": 78.89,
+     "Idioma": "croata",
+     "Moneda": "Kuna croata"
+    },
+    {
+     "Pais": "Cuba",
+     "Capital": "La Habana",
+     "Poblacion": 11489082,
+     "Extension": 109886,
+     "PiB": 11661,
+     "EsperanzaVida": 81.4,
+     "Idioma": "español",
+     "Moneda": "Peso cubano"
+    },
+    {
+     "Pais": "Tonga",
+     "Capital": "Nukualofa",
+     "Poblacion": 109008,
+     "Extension": 747,
+     "PiB": 11594,
+     "EsperanzaVida": 77.93,
+     "Idioma": "Inglés",
+     "Moneda": "Pa'anga"
+    },
+    {
+     "Pais": "Vaticano",
+     "Capital": "Vaticano",
+     "Poblacion": 801,
+     "Extension": 0.44,
+     "PiB": 11553,
+     "EsperanzaVida": 64.19,
+     "Idioma": "Latin",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Bután",
+     "Capital": "Thimphu",
+     "Poblacion": 817054,
+     "Extension": 38394,
+     "PiB": 11129,
+     "EsperanzaVida": 73.17,
+     "Idioma": "dzongka",
+     "Moneda": "Ngultrum butanés"
+    },
+    {
+     "Pais": "India",
+     "Capital": "Nueva Delhi",
+     "Poblacion": 1354051854,
+     "Extension": 3287260,
+     "PiB": 106455,
+     "EsperanzaVida": 85.39,
+     "Idioma": "hindi",
+     "Moneda": "Rupia india"
+    },
+    {
+     "Pais": "Laos",
+     "Capital": "Vientián",
+     "Poblacion": 6961210,
+     "Extension": 236800,
+     "PiB": 10691,
+     "EsperanzaVida": 75.59,
+     "Idioma": "lao",
+     "Moneda": "Kip laosiano"
+    },
+    {
+     "Pais": "Honduras",
+     "Capital": "Tegucigalpa",
+     "Poblacion": 9417167,
+     "Extension": 112492,
+     "PiB": 10408,
+     "EsperanzaVida": 64.32,
+     "Idioma": "español",
+     "Moneda": "Lempira hondureño"
+    },
+    {
+     "Pais": "Italia",
+     "Capital": "Roma",
+     "Poblacion": 59290969,
+     "Extension": 301336,
+     "PiB": 10355,
+     "EsperanzaVida": 73.13,
+     "Idioma": "italiano",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Islas Salomón",
+     "Capital": "Honiara",
+     "Poblacion": 623281,
+     "Extension": 28896,
+     "PiB": 10025,
+     "EsperanzaVida": 83.2,
+     "Idioma": "inglés",
+     "Moneda": "Dólar de las Islas Salomón"
+    },
+    {
+     "Pais": "Seychelles",
+     "Capital": "Victoria",
+     "Poblacion": 95235,
+     "Extension": 452,
+     "PiB": 1816,
+     "EsperanzaVida": 83.74,
+     "Idioma": "criollo seychellense",
+     "Moneda": "Rupia de Seychelles"
+    },
+    {
+     "Pais": "Luxemburgo",
+     "Capital": "Luxemburgo",
+     "Poblacion": 590321,
+     "Extension": 2586,
+     "PiB": 1658,
+     "EsperanzaVida": 74.5,
+     "Idioma": "alemán",
+     "Moneda": "Euro"
+    },
+    {
+     "Pais": "Liechtenstein",
+     "Capital": "Vaduz",
+     "Poblacion": 38155,
+     "Extension": 160,
+     "PiB": 1635,
+     "EsperanzaVida": 73.08,
+     "Idioma": "alemán",
+     "Moneda": "Franco suizo"
+    },
+    {
+     "Pais": "Chad",
+     "Capital": "Yamena",
+     "Poblacion": 15353184,
+     "Extension": 1284000,
+     "PiB": 1590,
+     "EsperanzaVida": 77.4,
+     "Idioma": "árabe",
+     "Moneda": "Franco CFA de África Central"
+    },
+    {
+     "Pais": "Lesoto",
+     "Capital": "Maseru",
+     "Poblacion": 2263010,
+     "Extension": 30355,
+     "PiB": 1552,
+     "EsperanzaVida": 68.22,
+     "Idioma": "inglés",
+     "Moneda": "Loti"
+    },
+    {
+     "Pais": "Micronesia",
+     "Capital": "Palikir",
+     "Poblacion": 531996,
+     "Extension": 702,
+     "PiB": 1342,
+     "EsperanzaVida": 75.13,
+     "Idioma": "inglés",
+     "Moneda": "Dólar estadounidense"
+    },
+    {
+     "Pais": "Namibia",
+     "Capital": "Windhoek",
+     "Poblacion": 2587801,
+     "Extension": 824268,
+     "PiB": 1309,
+     "EsperanzaVida": 64.05,
+     "Idioma": "inglés",
+     "Moneda": "Dólar namibio"
+    },
+    {
+     "Pais": "Singapur",
+     "Capital": "Singapur",
+     "Poblacion": 5791901,
+     "Extension": 710,
+     "PiB": 1302,
+     "EsperanzaVida": 57.7,
+     "Idioma": "inglés",
+     "Moneda": "Dólar de Singapur"
+    },
+    {
+     "Pais": "Sudán",
+     "Capital": "Jartum",
+     "Poblacion": 41511526,
+     "Extension": 1861480,
+     "PiB": 1234,
+     "EsperanzaVida": 83.2,
+     "Idioma": "árabe",
+     "Moneda": "Libra sudanesa"
+    },
+    {
+     "Pais": "República Checa",
+     "Capital": "Praga",
+     "Poblacion": 10625250,
+     "Extension": 78865,
+     "PiB": 1218,
+     "EsperanzaVida": 74.26,
+     "Idioma": "checo",
+     "Moneda": "Corona checa"
+    },
+    {
+     "Pais": "Portugal",
+     "Capital": "Lisboa",
+     "Poblacion": 10291196,
+     "Extension": 92090,
+     "PiB": 1020,
+     "EsperanzaVida": 53.68,
+     "Idioma": "portugués",
+     "Moneda": "Euro"
     }
+]

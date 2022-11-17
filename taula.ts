@@ -1,11 +1,29 @@
 /*
- GP2, per Victor Caballero, David Suñer i Martí Rodríguez
+ GP2 David Suñer i Martí Rodríguez
  26/10/2022
  v1
  */
  import { Component } from '@angular/core';
- @Component({
-   selector: 'aplicacio',
-   template: '<h1>Taula</h1>'
- })
- export class taula { }
+ import paisesData from './paisos.json';
+
+interface Pais {
+  Pais: String;
+  Capital: String;
+  Poblacion: Number;
+  Extension: Number;
+  PiB: Number;
+  EsperanzaVida: Number;
+  Idioma: String;
+  Moneda: String;
+}
+
+@Component({
+    selector: 'aplicacio',
+    templateUrl: 'taula.html',
+})
+
+export class taula {
+  title = 'GP2';
+  paises: Pais[] = paisesData;
+
+}
